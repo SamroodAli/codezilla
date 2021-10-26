@@ -4,13 +4,13 @@ import { onSearch, onSearchSuccess, onSearchError } from '../actions';
 const searchVideos = (term) => async (dispatch) => {
   try {
     dispatch(onSearch());
-    const { data: items } = await youtube.get('/search', {
+    const { data } = await youtube.get('/search', {
       params: {
         q: term,
       },
     });
 
-    dispatch(onSearchSuccess(items));
+    dispatch(onSearchSuccess(data.items));
   } catch (err) {
     dispatch(onSearchError());
   }

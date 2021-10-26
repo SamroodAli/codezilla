@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useActions } from '../hooks';
+import useActions from '../hooks/useActions';
 
 const SearchBar = () => {
   const [term, setTerm] = useState('');
