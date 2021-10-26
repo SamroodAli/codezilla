@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types';
+
 const VideoItem = ({ video }) => {
   const { thumbnails, description, title } = video;
 
@@ -11,4 +13,15 @@ const VideoItem = ({ video }) => {
   );
 };
 
+VideoItem.propTypes = {
+  video: PropTypes.shape({
+    thumbnails: PropTypes.shape({
+      medium: PropTypes.shape({
+        url: PropTypes.string.isRequired,
+      }).isRequired,
+    }).isRequired,
+    description: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+  }).isRequired,
+};
 export default VideoItem;

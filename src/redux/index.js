@@ -1,6 +1,8 @@
 import actionCreators from './action-creators';
 import store from './store';
 
-export default {
+const redux = {
   actionCreators, store,
 };
+
+export default redux;

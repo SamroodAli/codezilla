@@ -16,6 +16,8 @@ const searchVideos = (term) => async (dispatch) => {
   }
 };
 
-export default {
+const actionCreators = {
   searchVideos,
 };
+
+export default actionCreators;
