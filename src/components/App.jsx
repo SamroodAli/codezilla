@@ -6,7 +6,6 @@ import VideoShow from './VideoShow';
 
 const App = () => (
   <BrowserRouter>
-    <SearchBar />
     <Switch>
       <Route exact path="/" component={VideoList} />
       <Route path="/:id" component={VideoShow} />
