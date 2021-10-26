@@ -1,16 +1,20 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 import { Provider } from 'react-redux';
-import { ThemeProvider } from 'theme-ui';
+import { Provider as StyletronProvider, DebugEngine } from 'styletron-react';
+import { Client as Styletron } from 'styletron-engine-atomic';
+
 import redux from './redux';
-import theme from './theme';
 import App from './components/App';
+
+const debug = process.env.NODE_ENV === 'production' ? undefined : new DebugEngine();
+const engine = new Styletron();
 
 ReactDOM.render(
   <Provider store={redux.store}>
-    <ThemeProvider theme={theme}>
+    <StyletronProvider value={engine} debug={debug} debugAfterHydration>
       <App />
-    </ThemeProvider>
+    </StyletronProvider>
   </Provider>,
   document.getElementById('root'),
 );
