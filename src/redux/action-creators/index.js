@@ -12,11 +12,7 @@ import {
 const searchVideos = (term) => async (dispatch) => {
   try {
     dispatch(onSearch());
-    const { data } = await axios.get(`/data/${term}`, {
-      params: {
-        q: `${term} coding`,
-      },
-    });
+    const { data } = await axios.get(`/data/${term}.json`);
 
     dispatch(onSearchSuccess(data.items));
   } catch (err) {
@@ -26,13 +22,13 @@ const searchVideos = (term) => async (dispatch) => {
 
 const setCurrentVideo = (video) => onSelectVideo(video);
 
-const searchVideo = (term) => async (dispatch) => {
+const searchVideo = (searchTag) => async (dispatch) => {
   try {
-    const { data } = await axios.get(`/data/${term}`);
+    const { data } = await axios.get('/data/courses.json');
 
-    if (data.items.length) {
-      dispatch(onSelectVideo(data.items[0]));
-    }
+    const video = data.find(({ etag }) => searchTag === etag);
+
+    dispatch(onSelectVideo(video));
   } catch (err) {
     dispatch(onSearchError());
   }
