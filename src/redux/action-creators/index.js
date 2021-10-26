@@ -7,6 +7,7 @@ import {
   onSearchSuccess,
   onSearchError,
   onSelectVideo,
+  onThemeSelect,
 } from '../actions';
 
 const searchVideos = (term) => async (dispatch) => {
@@ -34,10 +35,13 @@ const searchVideo = (searchTag) => async (dispatch) => {
   }
 };
 
+const setTheme = (theme) => onThemeSelect(theme);
+
 const actionCreators = {
   searchVideos,
   searchVideo,
   setCurrentVideo,
+  setTheme,
 };
 
 export default actionCreators;
