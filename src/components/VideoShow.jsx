@@ -1,5 +1,6 @@
 import { useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
+import ReactPlayer from 'react-player';
 import useActions from '../hooks/useActions';
 
 const VideoShow = () => {
@@ -17,21 +18,11 @@ const VideoShow = () => {
 
   return (
     <div>
-      <div className="ui embed">
-        <iframe
-          src={videoUrl}
-          frameBorder="0"
-          width="100%"
-          height="90%"
-          title={title}
-        />
-      </div>
-      <div className="ui segment">
-        <div className="content">
-          <h4 className="ui header">{title}</h4>
-          <p>{description}</p>
-        </div>
-      </div>
+
+      <ReactPlayer url={videoUrl} controls playing />
+
+      <h4 className="ui header">{title}</h4>
+      <p>{description}</p>
     </div>
   );
 };

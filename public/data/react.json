@@ -10,40 +10,6 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "JJy98CNPUc6WoUV9WOY5m6X_XXY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Ke90Tje7VS0"
-      },
-      "snippet": {
-        "publishedAt": "2018-07-16T16:51:44Z",
-        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-        "title": "React JS - React Tutorial for Beginners",
-        "description": "React JS Tutorial - Get up & running with React JS: the most popular JavaScript library in the world! Want to master React? Get my React mastery course: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ke90Tje7VS0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Programming with Mosh",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-07-16T16:51:44Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "ZWwLwwxUliFOONM2ml_-abylAeo",
       "id": {
         "kind": "youtube#video",
