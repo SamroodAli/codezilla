@@ -1,8 +1,7 @@
-import {
-  SEARCH_VIDEOS,
-  SEARCH_VIDEOS_SUCCESS,
-  SEARCH_VIDEOS_ERROR,
-} from "../action-types";
+import actionTypes from "../action-types";
+
+const { SEARCH_VIDEOS, SEARCH_VIDEOS_SUCCESS, SEARCH_VIDEOS_ERROR } =
+  actionTypes;
 
 export const onSearch = () => ({ type: SEARCH_VIDEOS });
 

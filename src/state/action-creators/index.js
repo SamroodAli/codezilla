@@ -1,5 +1,5 @@
 import youtube from "../../api/youtube";
-import { onSearch, onSearchSuccess, onSearchError } from "../../actions";
+import { onSearch, onSearchSuccess, onSearchError } from "../actions";
 
 export const searchVideos = (term) => {
   return async (dispatch) => {
