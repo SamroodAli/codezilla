@@ -5,7 +5,7 @@ const VideoList = () => {
   const videos = useSelector(({ videos }) => videos);
 
   const videoItems = videos.map((video) => (
-    <VideoItem video={video.snippet} key={video.etag} />
+    <VideoItem video={video.snippet} key={video.eTag} />
   ));
 
   return <div>{videoItems}</div>;

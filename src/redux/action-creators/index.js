@@ -6,7 +6,7 @@ const searchVideos = (term) => async (dispatch) => {
     dispatch(onSearch());
     const { data } = await youtube.get('/search', {
       params: {
-        q: term,
+        q: `${term} coding`,
       },
     });
 

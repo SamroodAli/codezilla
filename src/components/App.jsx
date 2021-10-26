@@ -10,8 +10,8 @@ const App = () => (
     <Router history={history}>
       <SearchBar />
       <Switch>
-        <Route exact="/" component={VideoList} />
         <Route path="/:id" component={VideoShow} />
+        <Route exact path="/" component={VideoList} />
       </Switch>
     </Router>
   </div>
