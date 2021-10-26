@@ -4,7 +4,7 @@ const cors = require("cors")
 const path = require("path")
 const app = express()
 require('./database')
-import videos from "./videos"
+import videos from "./apis/videos"
 
 app.use(json())
 app.use(urlencoded({ extended: true }))
