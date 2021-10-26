@@ -1,4 +1,6 @@
 import youtube from '../../api/youtube';
+import history from '../../history';
+
 import {
   onSearch,
   onSearchSuccess,
@@ -21,12 +23,14 @@ const searchVideos = (term) => async (dispatch) => {
   }
 };
 
-const currentVideo = (video) => {
-  dispatch();
+const setCurrentVideo = (video) => {
+  history.push(`${video.eTag}`);
+  return onSelectVideo(video);
 };
 
 const actionCreators = {
   searchVideos,
+  setCurrentVideo,
 };
 
 export default actionCreators;
