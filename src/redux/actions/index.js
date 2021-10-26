@@ -1,6 +1,11 @@
 import actionTypes from '../action-types';
 
-const { SEARCH_VIDEOS, SEARCH_VIDEOS_SUCCESS, SEARCH_VIDEOS_ERROR } = actionTypes;
+const {
+  SEARCH_VIDEOS,
+  SEARCH_VIDEOS_SUCCESS,
+  SEARCH_VIDEOS_ERROR,
+  VIDEO_SELECT,
+} = actionTypes;
 
 export const onSearch = () => ({ type: SEARCH_VIDEOS });
 
@@ -10,3 +15,5 @@ export const onSearchSuccess = (videos) => ({
 });
 
 export const onSearchError = () => ({ type: SEARCH_VIDEOS_ERROR });
+
+export const onSelectVideo = (video) => ({ type: VIDEO_SELECT, payload: video });

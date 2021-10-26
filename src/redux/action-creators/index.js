@@ -1,5 +1,10 @@
 import youtube from '../../api/youtube';
-import { onSearch, onSearchSuccess, onSearchError } from '../actions';
+import {
+  onSearch,
+  onSearchSuccess,
+  onSearchError,
+  onSelectVideo,
+} from '../actions';
 
 const searchVideos = (term) => async (dispatch) => {
   try {
@@ -14,6 +19,10 @@ const searchVideos = (term) => async (dispatch) => {
   } catch (err) {
     dispatch(onSearchError());
   }
+};
+
+const currentVideo = (video) => {
+  dispatch();
 };
 
 const actionCreators = {
