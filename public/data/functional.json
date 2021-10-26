@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MMi1Ffxn7-p9lVVJptdXlzTz_vQ",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rw82g7FpzyToZvsrVSUHXVU3MeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dAPL7MQGjyM"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-22T09:06:31Z",
+        "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "title": "What is functional programming | Easy way",
+        "description": "Functional programming is a great subject to talk in detail. This video will help you to understand functional programming in easy way. Functional programming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dAPL7MQGjyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dAPL7MQGjyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dAPL7MQGjyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hitesh Choudhary",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-22T09:06:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8BNGRTwpZCChAPlXFZOLVbhmcWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0if71HOyVjY"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-09T09:47:32Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "Functional Programming in 40 Minutes • Russ Olsen • GOTO 2018",
+        "description": "This presentation was recorded at GOTO Berlin 2018. #gotocon #gotober http://gotober.com Russ Olsen - Author of Getting Clojure and Eloquent Ruby, VP at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0if71HOyVjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0if71HOyVjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0if71HOyVjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-09T09:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oVC-xLg8HG_XSSP8AxM_P0ZkRgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EqO4TcNLjl0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-22T00:57:50Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "How Functional Programming Can Make You A Better Developer",
+        "description": "We've all heard of functional programming, but how can you apply it to your existing code? In this talk by Eric Normand, author of Grokking Simplicity ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqO4TcNLjl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqO4TcNLjl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqO4TcNLjl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-22T00:57:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qq7JDHqLMLqZh37MVEfSXSIVyFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e-5obm1G_FY"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-14T17:06:44Z",
+        "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+        "title": "Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf",
+        "description": "Anjana's next talk at JSConf EU in May: http://2017.jsconf.eu/speakers/anjana-vakil-immutable-data-structures-for-functional-js.html Slides: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e-5obm1G_FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e-5obm1G_FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-5obm1G_FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JSConf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-14T17:06:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K0Nx4ntJBCkha2XFRWOGLKTTpiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRpHdSFWGPs"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-04T23:53:11Z",
+        "channelId": "UC2KfmYEM4KCuA1ZurravgYw",
+        "title": "Java Functional Programming | Full Course | 2020",
+        "description": "Functions are fun. Do you want to turn 20 lines of code into 5, perhaps. Well then you should learn what Java has to offer when it comes to functional ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRpHdSFWGPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRpHdSFWGPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRpHdSFWGPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amigoscode",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-04T23:53:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "npJJuQ3mWgPsycct7YQ7_rGeaEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m40YOZr1nxQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-12T18:00:04Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Let’s Code Real World App Using Purely Functional Techniques (in Scala)",
+        "description": "We will create a small, real-world data transformation program that demonstrates how functional techniques address issues such as control flow, type ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m40YOZr1nxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m40YOZr1nxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m40YOZr1nxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-12T18:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YVsGYdHRtAfaFmD2u8z58DaO3EQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fsVL_xrYO0w"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-14T18:58:41Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Object Oriented vs Functional Programming with TypeScript",
+        "description": "Learn how object-oriented and functional ❄️ programming are awesome in their own ways. Also, get infallible answers answers to questions like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-14T18:58:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SAYsriT1wabYGdMu4iTIFX39FbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KHojnWHemO0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-23T02:25:01Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "What is Functional Programming?",
+        "description": "We will discuss the state of functional programming in brief across several languages. Also a discussion on the broader goals of functional programming and this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KHojnWHemO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KHojnWHemO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KHojnWHemO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-23T02:25:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JaNHqsXQDTKVeq2XLqE8-RSLBRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R0jVqeYzs9c"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-17T15:38:32Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Functional Programming in Scala",
+        "description": "After 10 years of Object Orientated Java, 2 years of Functional Programming in Scala was enough to convince me that I could never switch back. But why?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0jVqeYzs9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0jVqeYzs9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0jVqeYzs9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-17T15:38:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b6L0lXrtr0dxEU18si4cGZ41Hoo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vVW5bkXQ138"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-04T19:12:36Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Elements of Functional Programming",
+        "description": "Functional programming might seem scary at first, but with some hands-on examples you will soon find you can use map(), flatMap(), filter(), and more in your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVW5bkXQ138/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVW5bkXQ138/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVW5bkXQ138/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-04T19:12:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YIV06JbCULr1YyUg3VqZteYKrb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LnX3B9oaKzw"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-30T14:59:11Z",
+        "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+        "title": "Functional Programming &amp; Haskell - Computerphile",
+        "description": "Just what is functional programming? We asked a member of the team that created Haskell: John Hughes, Professor of Computer Science at Chalmers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnX3B9oaKzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnX3B9oaKzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnX3B9oaKzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Computerphile",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-30T14:59:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "THXIBxM1RamFdwASXzhLcd18egU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tPeLYpSQ37k"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-12T11:27:41Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "IS Java Functional Programming? | What about Python?",
+        "description": "In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPeLYpSQ37k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPeLYpSQ37k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPeLYpSQ37k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Telusko",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-12T11:27:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FCsC2PN5oUFE7I8Zvu0oxdYHyj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wyABTfR9UTU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-21T18:00:16Z",
+        "channelId": "UCCfqyGl3nq_V0bo64CjZh8g",
+        "title": "Object Oriented Programming vs Functional Programming",
+        "description": "Object-Oriented Programming has been the dominant approach for the past couple of decades, but Functional programming languages are growing in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wyABTfR9UTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wyABTfR9UTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wyABTfR9UTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Continuous Delivery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-21T18:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rHOCe64XkwcfL-KtnSyTlBnxCPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BJG-c65XkEU"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T15:30:03Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Functional Programming with JavaScript",
+        "description": "Functional Programming is becoming increasingly popular and relevant with each year that goes by. With so much discussion around languages such as F#, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJG-c65XkEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJG-c65XkEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJG-c65XkEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T15:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "un_wTjcJArufrcTypbLaiDM3Ue4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aKXKC_N_0hw"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-21T17:30:01Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Functional Programming For Dummies",
+        "description": "What is functional programming? Pure functions, of course, but don't forget immutability, referential transparency, pointfree programming and tail recursion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aKXKC_N_0hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aKXKC_N_0hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKXKC_N_0hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-21T17:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GLeC0izlRKoSTlJZy-na0R-z6Gc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bRlvGoWz6Ig"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-21T16:08:55Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "JavaScript Snake Game Tutorial Using Functional Programming",
+        "description": "Build a Snake Game in JavaScript using Functional Programming concepts. No libraries are used in this JavaScript tutorial. Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRlvGoWz6Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRlvGoWz6Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRlvGoWz6Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-21T16:08:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mOeK3ibpHq-PJc9mim0rW6mu414",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwV1ekXSMV0"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-20T07:31:10Z",
+        "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+        "title": "Functional Programming languages vs Object Oriented (OOP) | What&#39;s the difference? | Intellipaat",
+        "description": "Intellipaat's Programming courses: https://intellipaat.com/all-courses/programming/ In this video on Functional Programming languages vs Object Oriented ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwV1ekXSMV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwV1ekXSMV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwV1ekXSMV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Intellipaat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-20T07:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ifx9AVm4q7GU5XvLPmxeYDkePrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wIpL1N2sup8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T11:49:44Z",
+        "channelId": "UC_RV_tw0mK1aStb6h1eX77g",
+        "title": "Refactoring to Functional Programming in Java - Live-Coding Kata - &quot;Yatzi&quot; - part 1",
+        "description": "During this session I solve a refactoring exercise, discussing design options and tradeoffs, coding style, Java Stream API, Object Oriented Programming (OOP) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wIpL1N2sup8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wIpL1N2sup8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wIpL1N2sup8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Victor Rentea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T11:49:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KlvNEWlFjP36lJlbmbjGSFbQnJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F02LKnWJWF4"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-16T10:33:23Z",
+        "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
+        "title": "Functional Programming Patterns with Java8 with Victor Rentea",
+        "description": "After leading 2 projects making heavy use of Lambdas and Streams, counseling many others at IBM, and teaching hundreds of developers at University and as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F02LKnWJWF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F02LKnWJWF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F02LKnWJWF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Devoxx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-16T10:33:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8y51KbyaQcEq-whTt13qrp0VbRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sCAR8ZPM6ew"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-03T19:13:46Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Functional Programming with JavaScript",
+        "description": "Functional Programming is becoming increasingly popular and relevant with each year that goes by. With so much discussion around languages such as F#, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sCAR8ZPM6ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sCAR8ZPM6ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sCAR8ZPM6ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-03T19:13:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NIb0HB-CfCRmsGx9SwJG_REHHzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bzUmK0Y07ck"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-28T15:05:10Z",
+        "channelId": "UCPyA0XmU6aS4JCwVoIBTmIQ",
+        "title": "&quot;The Joy of Functional Programming (for Data Science)&quot; with Hadley Wickham",
+        "description": "Title: The Joy of Functional Programming for Data Science Speaker: Hadley Wickham Date: 6/20/2019 Abstract Functional programming (FP) provides a rich set ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bzUmK0Y07ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bzUmK0Y07ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bzUmK0Y07ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Association for Computing Machinery (ACM)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-28T15:05:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FLIy4K4S6T6eiNWI0ELdVu98Ow4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qtsbZarFzm8"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-22T14:36:57Z",
+        "channelId": "UC2Jwo4Q0s-ucjGseHP8XUSQ",
+        "title": "Anjana Vakil — Functional Programming in JS: What? Why? How?",
+        "description": "Ближайшая конференция: HolyJS 2021 Moscow — 2-5 ноября, онлайн. Подробности и билеты: https://bit.ly/3rF5KS7 . Functional programming has become ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtsbZarFzm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtsbZarFzm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtsbZarFzm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HolyJS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-22T14:36:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K92JAV3_X4rUDCn6Nh1HAS1GcGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FYXpOjwYzcs"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-18T17:46:56Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Functional Programming Basics In ES6",
+        "description": "With all the hubbub over functional programming in JavaScript, you might be confused what it's all about. Functional programming can solve many problems ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYXpOjwYzcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYXpOjwYzcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYXpOjwYzcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-18T17:46:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wbNyuUYranWZA371OfwrUiZRF2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YnzisJh-ZNI"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-17T13:26:49Z",
+        "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
+        "title": "Functional Programming Patterns with Java8 by Victor Rentea",
+        "description": "Subscribe to Devoxx on YouTube @ https://bit.ly/devoxx-youtube Like Devoxx on Facebook @ https://www.facebook.com/devoxxcom Follow Devoxx on Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YnzisJh-ZNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YnzisJh-ZNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YnzisJh-ZNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Devoxx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-17T13:26:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fTysS64MUpUiRznvBnOZSkXPrE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r2eZ7lhqzNE"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-31T16:12:23Z",
+        "channelId": "UCOjD18EJYcsBog4IozkF_7w",
+        "title": "Daniel Kirsch - Functional Programming in Python",
+        "description": "PyData Berlin 2016 There should be one-- and preferably only one --obvious way to do it. And that is functional - at least in my opinion. I'm working with Python ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2eZ7lhqzNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2eZ7lhqzNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2eZ7lhqzNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PyData",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-31T16:12:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ws6yUqsNonct9djhrWgns-BOcvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YXDm3WHZT5g"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-09T11:05:54Z",
+        "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
+        "title": "Plain Functional Programming by Martin Odersky",
+        "description": "Please subscribe to our YouTube channel @ https://bit.ly/devoxx-youtube Like us on Facebook @ https://www.facebook.com/devoxxcom Follow us on Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YXDm3WHZT5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YXDm3WHZT5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YXDm3WHZT5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Devoxx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-09T11:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lh5Kng-nMsC_CwLa6fjt7dWs6VY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aoE-92Ac4zE"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T16:00:08Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Functional, Procedural &amp; Object-oriented Programming - An Overview",
+        "description": "What's the difference between functional, procedural and object-oriented programming (OOP)? Let's take a closer look and build the same demo-app in three ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T16:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gnM5aQajjvCSdarCyOsTge341lk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a-RAltgH8tw"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-26T19:14:21Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "Functional Programming from First Principles • Erik Meijer • GOTO 2012",
+        "description": "This presentation was recorded at Chicago's GOTO Night 2012. #gotocon #gotochgo http://gotocon.com Erik Meijer - University of Delft Download slides here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a-RAltgH8tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a-RAltgH8tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a-RAltgH8tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-26T19:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hYTEf22CXn7dzQfmFL4YAb2UunQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J5RICKnbuKI"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-22T09:42:46Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "Java 8 Lambda Basics 4 - Functional vs Object Oriented Programming",
+        "description": "Access the full course here: https://javabrains.io/courses/java_lambdabasics In this video, I address a common concern about functional programming in Java ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5RICKnbuKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5RICKnbuKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5RICKnbuKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-22T09:42:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jx0hJVdNvFj_wdhWrxVVdCcpHI4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6eLAaTDWKIk"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-16T15:21:52Z",
+        "channelId": "UCbrXRQHV4TOU4Pqzw325Z1A",
+        "title": "Functional programming with C#: Why does it matter? | Pluralsight",
+        "description": "Functional programming in C# | https://www.pluralsight.com/courses/functional-programming-csharp Learn how to take advantage of several functional ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6eLAaTDWKIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6eLAaTDWKIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6eLAaTDWKIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pluralsight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-16T15:21:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h7VZi9oNyv7Vj7ekppBP9Q6uZ5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-U9HQembktY"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-02T14:14:39Z",
+        "channelId": "UCoyqucxoFXDFnh3khD0rjUg",
+        "title": "A Real World Example of Functional Programming with fp-ts - Frederick Fogerty - CityJS Conf 2020",
+        "description": "Have you thought about learning Functional Programming, but have been daunted by all the technical jargon? Luckily, in this talk I won't be exploring any ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-U9HQembktY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-U9HQembktY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-U9HQembktY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pusher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-02T14:14:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "re1PiXyIonRRmHVYWYQuRC8xus0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HkWxvB1RJq0"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-08T14:30:13Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Higher-Order Functions ft. Functional Programming | Namaste JavaScript Ep. 18",
+        "description": "Functional Programming is powered by Higher-Order Functions in JavaScript. And all this is possible because functions are first-class citizens in JS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-08T14:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PcaG8ol9PEPUr1Eux0jJwSIPWzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ee5t_EGjv0A"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-27T14:12:33Z",
+        "channelId": "UCGp4UBwpTNegd_4nCpuBcow",
+        "title": "Functional Programming with Java 8",
+        "description": "With the release of Java 8, the biggest change is going to be in the programmers mind. In addition to the new syntax for lambda expressions and method ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ee5t_EGjv0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ee5t_EGjv0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ee5t_EGjv0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JetBrainsTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-27T14:12:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iug6ucgB9gkEB65r20oX61dU1tc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v_RMXzAtV_4"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-20T12:14:15Z",
+        "channelId": "UC4o8Fdpv3g_AjgShAeivqpA",
+        "title": "Java 8 New Features | Introduction to Functional Programming | by Mr. Hari Krishna",
+        "description": "Java 8 New Features | Introduction to Functional Programing | by Mr. Hari Krishna ** For Online Training Registration: https://goo.gl/r6kJbB ▻ Call: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v_RMXzAtV_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v_RMXzAtV_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_RMXzAtV_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Naresh i Technologies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-20T12:14:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p4Ef9qHqjJIOBv5RKvT5r4_gOvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Xw1_IREXQs"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-27T10:07:02Z",
+        "channelId": "UCLz7LG4YVi7_iyk4yOARcxA",
+        "title": "Java Functional Programming Tutorial - 02",
+        "description": "Java Functional Programming Tutorial. Important Functional Programming Concepts - Lambda Expression, Stream and Operations on a Stream (Intermediate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Xw1_IREXQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Xw1_IREXQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Xw1_IREXQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "in28minutes Cloud, DevOps and Microservices",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-27T10:07:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DebLcAFOwbMFnUtoBuHaDdudoyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jyKVtaOx_sQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-09T08:51:08Z",
+        "channelId": "UC8OU1Tc1kxiI37uXBAbTX7A",
+        "title": "Scala Tutorial - Elements of Functional Programming - Part-1",
+        "description": "Kite is a free AI-powered coding assistant that will help you code faster and smarter. Check out the below link.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyKVtaOx_sQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyKVtaOx_sQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyKVtaOx_sQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learning Journal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-09T08:51:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VMqVD7wjiW9G2Z2aWb4BxoUsDLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6vOqrUEJlj0"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-24T13:13:04Z",
+        "channelId": "UC_RV_tw0mK1aStb6h1eX77g",
+        "title": "Refactoring to Functional Programming in Java - Live-Coding Kata - &quot;Yatzi&quot;, part 2",
+        "description": "During this live-coding session, I will continue the \"Yatzi\" Coding Kata (in Java) from where we left it last time: https://www.youtube.com/watch?v=wIpL1N2sup8 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vOqrUEJlj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vOqrUEJlj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vOqrUEJlj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Victor Rentea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-24T13:13:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "diMyHQw7aoXw4TnvG8V3RdUYdMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QyJZzq0v7Z4"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-30T10:14:07Z",
+        "channelId": "UC1lFJanm5Wp6IpNk-2C1Sxw",
+        "title": "Why Isn&#39;t Functional Programming the Norm? – Richard Feldman",
+        "description": "Richard is a member of the Elm core team, the author of Elm in Action from Manning Publications, and the instructor for the Intro to Elm and Advanced Elm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QyJZzq0v7Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QyJZzq0v7Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QyJZzq0v7Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Metosin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-30T10:14:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eQxBfcS-YWPZYfJixu2pP9ZUV8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B-mLFobQ0aA"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-06T19:53:42Z",
+        "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
+        "title": "VICTOR RENTEA - Functional Programming Patterns with Java8",
+        "description": "Java 8 is cool... But do you know to write elegant code with it? Have strong coffee and come to this insane live-coding session to see some real-life functional ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-mLFobQ0aA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-mLFobQ0aA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-mLFobQ0aA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Devoxx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-06T19:53:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZAgfedpWE4tOXNRuKvg1jO_SMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VOZZTSuDMFE"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-15T08:51:46Z",
+        "channelId": "UCGp4UBwpTNegd_4nCpuBcow",
+        "title": "KotlinConf 2018 - Functional Programming in Kotlin with Λrrow by Raúl Raja Martínez",
+        "description": "Recording brought to you by American Express https://americanexpress.io/kotlin-jobs This talk is a comprehensive walk through of the most important patterns ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VOZZTSuDMFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VOZZTSuDMFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VOZZTSuDMFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JetBrainsTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-15T08:51:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "djz5f6N5mnacyyS2H_x_PKfgF-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZLP4qOwY8I"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-17T13:00:00Z",
+        "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "title": "Currying - Part 6 of Functional Programming in JavaScript",
+        "description": "Support the show by becoming a Patreon https://www.patreon.com/funfunfunction A short video explaining the concept of curring, using JavaScript. This is part of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZLP4qOwY8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZLP4qOwY8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZLP4qOwY8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fun Fun Function",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-17T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wDXMoC9_bMNTGkAyv4TEQKsHU9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "srQt1NAHYC0"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-25T08:04:43Z",
+        "channelId": "UCTdw38Cw6jcm0atBPA39a0Q",
+        "title": "Functional Design Patterns - Scott Wlaschin",
+        "description": "In object-oriented development, we are all familiar with design patterns such as the Strategy pattern and Decorator pattern, and design principles such as SOLID ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srQt1NAHYC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srQt1NAHYC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srQt1NAHYC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDC Conferences",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-25T08:04:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PRIGil3eUg8WNTbhM-L_YEVOAJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qI1ctQ0293o"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-15T12:09:26Z",
+        "channelId": "UCGp4UBwpTNegd_4nCpuBcow",
+        "title": "KotlinConf 2017 - Architectures Using Functional Programming Concepts by Jorge Castillo",
+        "description": "You're probably used to MVP, MVVM, MVC, Clean, Viper, and other patterns and architectures usually applied using OOP. This talk offers functional alternatives ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qI1ctQ0293o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qI1ctQ0293o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qI1ctQ0293o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JetBrainsTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-15T12:09:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yxMdyH4kLMGAY4d3THuN7Q-PbTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KZ1UmiWHbzY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-22T15:46:34Z",
+        "channelId": "UCQvdU25Eqk3YS9-QnILhKKQ",
+        "title": "Modern functional programming with Clojure",
+        "description": "Clojure is a modern functional programming language and currently gets some attention as an interesting programming alternative, even in the business world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZ1UmiWHbzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZ1UmiWHbzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZ1UmiWHbzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thoughtworks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-22T15:46:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "esDNGvdbY5O-FvA38CacQBuIJUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v9QGWbGppis"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-25T08:03:43Z",
+        "channelId": "UCTdw38Cw6jcm0atBPA39a0Q",
+        "title": "Functional Programming Patterns for Mere Mortals - Daniel Chambers",
+        "description": "Have you ever peeked over the fence into functional programming land and gazed into a seemingly alien landscape of weird symbols and crazily named ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v9QGWbGppis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v9QGWbGppis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9QGWbGppis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDC Conferences",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-25T08:03:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yg91FkkKp6i6rZ5ajAUIKsDSr6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sqV3pL5x8PI"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-30T13:25:01Z",
+        "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+        "title": "Programming Paradigms - Computerphile",
+        "description": "There are different styles of programming, some quite closely resemble pure mathematics. Mathematician and Computer Scientist Laurence Day compares two ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sqV3pL5x8PI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sqV3pL5x8PI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sqV3pL5x8PI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Computerphile",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-30T13:25:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Z_uCjTiWmhx7JagxjYBnzQRIaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gF7wjwM9Jjs"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-06T14:30:00Z",
+        "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+        "title": "Function Definition in C",
+        "description": "C Programming & Data Structures: Function Definition in C Topics discussed: 1) Definition of functions in C language. 2) Example of the function definition.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gF7wjwM9Jjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gF7wjwM9Jjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gF7wjwM9Jjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Neso Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-06T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Ib1XUm2F60P3FIZDvcBaJKcoBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U7_B4WmUYgw"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-13T11:49:52Z",
+        "channelId": "UC3VydBGBl132baPCLeDspMQ",
+        "title": "Functional Programming in C# - Part 3 :  Coding Best Practices in Functional C# | packtpub.com",
+        "description": "This playlist/video has been uploaded for Marketing purposes and contains only selective videos. For the entire video course and code, visit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7_B4WmUYgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7_B4WmUYgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7_B4WmUYgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Packt Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-13T11:49:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qrDwNgrV44gh2i-i_6nI4faSG40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oBt53YbR9Kk"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-03T14:50:22Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges",
+        "description": "Learn how to use Dynamic Programming in this course for beginners. It can help you solve complex programming problems, such as those often seen in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-03T14:50:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cBPDIH0L_JuE9na-g8VwKApWJSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fYbhD_KMCOg"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-17T16:00:06Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn Pure Functions In 10 Minutes",
+        "description": "Functional programming is constantly on the rise, and with functional programming comes pure functions. Pure functions are the base of what functional ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYbhD_KMCOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYbhD_KMCOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYbhD_KMCOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-17T16:00:06Z"
+      }
+    }
+  ]
+}

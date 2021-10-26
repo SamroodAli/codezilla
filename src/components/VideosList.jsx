@@ -8,7 +8,7 @@ const VideoList = () => {
   const { setCurrentVideo } = useActions();
 
   const videoItems = videos.map((video) => (
-    <Link to={`/${video.etag}`} key={video.etag} onClick={() => setCurrentVideo(video)}>
+    <Link to={`/${video.id.videoId}`} key={video.etag} onClick={() => setCurrentVideo(video)}>
       <VideoItem video={video.snippet} />
     </Link>
   ));

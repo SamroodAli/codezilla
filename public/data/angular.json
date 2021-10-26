@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Lml2I6KQty_i6dQCv9b89U6D6SY",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5C2ltc2IL8zZxIUT98IspyOAt6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k5E2AVpwsko"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-05T16:48:15Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Angular Tutorial for Beginners: Learn Angular &amp; TypeScript",
+        "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. Enjoyed this video? Please vote for me as the Top Programming Guru: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-05T16:48:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PcznLOl8axcNzjzpmZMydZ8hhcg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0LhBvp8qpro"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-10T14:43:19Z",
+        "channelId": "UCeVMnSShP_Iviwkknt83cww",
+        "title": "Angular Tutorial in Hindi",
+        "description": "Angular Complete Course: In this video, I will explain to you everything you need to get started with the Angular framework. Angular is a very popular framework ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0LhBvp8qpro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0LhBvp8qpro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LhBvp8qpro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CodeWithHarry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-10T14:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jADtjozjZOkiswlZu2yVLNVOxiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pKQP74qVy3A"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-11T05:26:43Z",
+        "channelId": "UCYFd7Qy93YP7gPERnxP545A",
+        "title": "Live Coding! Animal Crossing: New Horizons Turnip Exchange with Angular",
+        "description": "Jeremy and I are live building a brand new app with Angular version 9. Come watch the successes, trials, and tribulations of trying to build something awesome ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKQP74qVy3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKQP74qVy3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKQP74qVy3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Digital Fluency",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-11T05:26:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nCBH0IWDUAvSKD75CMc-IVCTs7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LiOzTQAz13Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-18T16:04:15Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Angular 11 Tutorial - Code a Project from Scratch",
+        "description": "Learn how to create an Angular 11 project from scratch in this full course. It uses a public API to create a game database website. You will gain a great ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiOzTQAz13Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiOzTQAz13Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiOzTQAz13Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-18T16:04:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CMA21aT9um757dEKHEcVwvrsmXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VAkio68d51A"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-25T00:09:23Z",
+        "channelId": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "title": "What is Angular? (Explained for Beginners)",
+        "description": "When you're just starting out you are probably wondering \"What is Angular exactly? When you ask that question it leads to a lot of concepts that are over your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andy Sterkowitz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-25T00:09:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ihbFf9mRvfpY5JjR9-7d34bR_Po",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TC1oVXlVE3M"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-03T14:30:05Z",
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "title": "Angular Tutorial For Beginners | Angular Hello World Program Example Step By Step | Simplilearn",
+        "description": "This Angular Hello world video will help you understand the basics of Angular and the files included in the package that helps create your Angular application.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TC1oVXlVE3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TC1oVXlVE3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TC1oVXlVE3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simplilearn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-03T14:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z7mjCsYO7upwC5qBxJ8wBsSnbPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G0bBLvWXBvc"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-16T16:53:41Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Angular for Beginners - Let&#39;s build a Tic-Tac-Toe PWA",
+        "description": "Learn the basics of Angular 8 by building a tic-tac-toe game 🕹️ from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-16T16:53:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0dlX7T3TY-W46b2Ks9oEOi7rcdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3dHNOWTI7H8"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-06T15:40:03Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Angular Crash Course 2021",
+        "description": "Learn the fundamentals of Angular in this project-based crash course Video Sponsor: https://www.hostinger.com/traversymedia - Use the code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-06T15:40:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3iKvyA2v40HNkJ5zZGcP_3_K2wY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j0JBp5OEzJc"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-04T20:20:40Z",
+        "channelId": "UCXThdhZ3YunQJMx91EXAV4A",
+        "title": "5 Angular Best Practices",
+        "description": "Learn to optimize your productivity and sanity while programming in angular. What I've learned after a decade of programming. Learn my 5 recommended best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0JBp5OEzJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0JBp5OEzJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0JBp5OEzJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jameson Saunders",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-04T20:20:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7vG55_ar5sD9k8UBDOQhVT8GPhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5xg4Jvqy_UI"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-07T14:30:00Z",
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "title": "Angular Tutorial For Beginners | What is Angular? | What Is Angular And How It Works? | Simplilearn",
+        "description": "In this video on What is Angular, you will be introduced to Angular and some of the basic concepts to begin your Angular journey. Angular is a front-end ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5xg4Jvqy_UI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5xg4Jvqy_UI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5xg4Jvqy_UI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simplilearn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-07T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ENcm6QeiXNKFhaa3XqAVlmeqb5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qUpW_5odqvY"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-19T15:47:03Z",
+        "channelId": "UCh5fPip24uhWY8tF0s5Tm9g",
+        "title": "Angular js with Example &amp; Coding | angular for beginners | codingkakida | coding ka kida",
+        "description": "this video describes how you can use angular js with example and coding. Angular Js Download Link : https://code.angularjs.org/ #beginners #angular ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUpW_5odqvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUpW_5odqvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUpW_5odqvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Ka Kida",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-19T15:47:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZfucsG3GHG27uPR9o6fJ8NjTxjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t8sf7yB_ZEA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-24T12:00:31Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Can You Complete This 100 Coding Challenge? // 100 Angular Challenge Udemy Review!",
+        "description": "In this video I discuss the 100 Angular Challenge Udemy course by Dylan Israell. I discuss what things I like about it, and why I think it's one of the best Angular ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8sf7yB_ZEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8sf7yB_ZEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8sf7yB_ZEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-24T12:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WFjKUqxIILs2a_NkjHqHOt7-ZfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KhUtM8skC5A"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-17T02:30:03Z",
+        "channelId": "UCSj1Igu3ejxqcQISNEmx8VQ",
+        "title": "TOP 5 Angular Interview Questions and Answers (for experienced, 2020)",
+        "description": "Hello Guys! There is no coding for today but another quite important topic instead. Today I will share with you my TOP 5 interview questions which I ask on every ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhUtM8skC5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhUtM8skC5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhUtM8skC5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Decoded Frontend",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-17T02:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0fFNIcO5JAtstj7GAovH3k-DNY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LBxDzX6JGfM"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T07:48:40Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Live coding Angular &amp; NgRX &amp; Prestashop",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T07:48:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CrjgugYAVUfWc7JUgDxDPPj5ZLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5YwFyHXQMIQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-16T02:00:00Z",
+        "channelId": "UCu7HHaJH0CuRttKeDbRw2Vw",
+        "title": "Angular 12 | Ag-Grid Integration | 01 | codingindian.com",
+        "description": "Angular 12 Ag-Grid Integration Integrate the Ag-Grid table into your Angular 12 Application. Ag-Grid is one of the popular plugins for rendering data very faster ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5YwFyHXQMIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5YwFyHXQMIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5YwFyHXQMIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Pullingo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-16T02:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cnSEapYn_DNZn46jwBXNh8fNPT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kChBiDhdSVA"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-08T05:28:38Z",
+        "channelId": "UCLNgu_OupwoeESgtab33CCw",
+        "title": "Intro to TypeScript and Angular 5",
+        "description": "https://github.com/w3cj/angular-5-todo Search for more Coding Garden videos here: https://cg-videos.now.sh View the Coding Garden FAQ here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kChBiDhdSVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kChBiDhdSVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kChBiDhdSVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Garden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-08T05:28:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pCooh_h0Fq7rsG5e7EKOXjOJOJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l23KYiM5Se0"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-19T16:00:05Z",
+        "channelId": "UC4DwZ2VXM2KWtzHjVk9M_xg",
+        "title": "Basics of Angular JS in 8 minutes | Controllers + Scope | Code in 5",
+        "description": "Create your first angular application with this video! We'll talk about how to set up your app, create a controller, and use the scope object. We'll also use ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l23KYiM5Se0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l23KYiM5Se0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l23KYiM5Se0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "blondiebytes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-19T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mqTgci7tQ_RNNUCsf-lJlCA5ES8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "olVedOmp3uY"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-21T00:00:04Z",
+        "channelId": "UCHa8J-xnRYOg5VuudfWpBgg",
+        "title": "What is Angular? — Coding for Beginners",
+        "description": "Coding for Beginners — What is Angular? http://dev.colorcode.io/course/tech-in-90-seconds/?video=angular-1 Tech in 90 Seconds - Angular Author: John K.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/olVedOmp3uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/olVedOmp3uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/olVedOmp3uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ColorCode",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-21T00:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9IKu2PAvJ4V_FvRpFuML9ZFEeuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xGpHfFf18Ns"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-11T11:24:13Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Angular Full Course in 5 Hours | Angular Tutorial For Beginners | Angular Training | Edureka",
+        "description": "Edureka Angular Certification Training: https://www.edureka.co/angular-training This Edureka Angular Full Course video will help you understand and learn the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xGpHfFf18Ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xGpHfFf18Ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xGpHfFf18Ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-11T11:24:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fs81LpvM4WOdboy6IqkYhSm7BnU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0YKF8051Mp4"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-07T13:00:01Z",
+        "channelId": "UCSj1Igu3ejxqcQISNEmx8VQ",
+        "title": "Angular ViewChild Decorator Trick (advanced, #shorts, #webdevelopment, #angular  )",
+        "description": "Thanks for watching! I would highly appreciate your feedback and comments. Subscribe to my channel and check out my courses. In-Depth Angular Material ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YKF8051Mp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YKF8051Mp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YKF8051Mp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Decoded Frontend",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-07T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dc_edk5ZvG5CJ-HhjVM9JBZvy0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bRvlYFSZRXQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-28T03:47:32Z",
+        "channelId": "UCKu_xF5kVw23457kt3JuMNQ",
+        "title": "Top Angular 6 Interview Questions with Code Examples | PART 1",
+        "description": "In this video I have covered the following topics: 1) Template Reference Variables 2) Safe navigation operator (?.) ▻▻▻SUBSCRIBE for more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRvlYFSZRXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRvlYFSZRXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRvlYFSZRXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Code First",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-28T03:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3zpbTH_GB7cZYvd1L-veMy-bys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B-lipaiZII8"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-16T21:02:04Z",
+        "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "title": "How to stay fast and fresh with Angular",
+        "description": "Watch a live coding demo walking through the top principles and tools you can use to make your applications shine when it comes to startup performance and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-lipaiZII8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-lipaiZII8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-lipaiZII8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Chrome Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-16T21:02:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d-nVKPQw3DSln3Q4wnul0_Cdfek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WA95EJGhbLc"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-29T07:47:10Z",
+        "channelId": "UCIKbbV7ae7LAWa8cGnvjSPA",
+        "title": "How to Properly Structure Angular Code",
+        "description": "Donate to help the channel: https://paypal.me/tipawais In this video we learn hot to properly structure Angular enterprise level web application. Structuring your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WA95EJGhbLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WA95EJGhbLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WA95EJGhbLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Awais Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-29T07:47:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JPTW44XQAGUHmnuWcf2liIDrWm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4a9VxZjnT7E"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-01T15:00:46Z",
+        "channelId": "UCTXLMW9262FBpcQTVNXQ8Aw",
+        "title": "Learn Angular 10, Web API &amp; SQL Server by Creating a Web Application from Scratch",
+        "description": "Source Code: https://github.com/ArtOfEngineer/Angular10WebAPITut Related Tutorials: -------------------- React JS + Python Django + SQLite full-stack app ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4a9VxZjnT7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4a9VxZjnT7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4a9VxZjnT7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Art of Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-01T15:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FwxCl1qhP30C_3KEuZqumOS380Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLmI8PAGjMU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T19:57:48Z",
+        "channelId": "UCiHTgKffSdm-GHrtCFug7DQ",
+        "title": "Full Tutorial Coding 4 Angular Apps in 8 Minutes! Todo App, Calculator, Quiz, and Weather",
+        "description": "angular #angularTutorial #coding Learn to build 4 basic angular projects that every front end engineer should know how to code. 1. A basic calculator app that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLmI8PAGjMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLmI8PAGjMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLmI8PAGjMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yusuf Codes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T19:57:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6kmJRyCVv17oSeQOkil8sMZf_6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQc55WWUsXI"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-05T12:00:02Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Top 10 Tips For New Angular Developers",
+        "description": "Angular 8 is out and a lot of people are jumping on the Angular band wagon. I created this video to help new and old angular developers be better. All the tips ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQc55WWUsXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-05T12:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zr0ZONec2QENdkYVpzRit0I_4jo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DKlTBBuc32c"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-19T16:11:17Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)",
+        "description": "Learn how to use Spring boot and Angular to build a Reddit clone. We will be using Java 8, Spring Boot, Spring Security, Spring Data JPA, MySQL on the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DKlTBBuc32c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DKlTBBuc32c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKlTBBuc32c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-19T16:11:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qAs_xy3awjflXI1v1MhrySNSuvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G_GTbcRvxnM"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-02T17:34:41Z",
+        "channelId": "UC_DEBDpgRyBZAT85tJ1QZBw",
+        "title": "Introduction - Part 1 of Reactive Programming in Angular with RxJS",
+        "description": "CHECK OUT MY BOOK ABOUT ADVANCED TYPESCRIPT https://typescriptmasterclass.com === The first episode of the Reactive Programming in Angular with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G_GTbcRvxnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G_GTbcRvxnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G_GTbcRvxnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "codewithstyle.info",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-02T17:34:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ZDzVjmAdugWjXAgoYYFsq4G5gU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nmFaZ6dVkt4"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-20T04:39:19Z",
+        "channelId": "UCDJVbKWW-ThFTraRklmF1IQ",
+        "title": "How Does AngularJS Work? Beginners Angular Tutorial",
+        "description": "Learn Web Development HERE: https://academy.zenva.com/product/full-stack-web-development-mini-degree/?zva_src=youtube-description-angular1 In this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nmFaZ6dVkt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nmFaZ6dVkt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nmFaZ6dVkt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-11-20T04:39:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qNN8nPpFgZOn1SCHcNPZLjHnmc8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tii7oPQ1UgQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-17T18:44:14Z",
+        "channelId": "UCoR5eVx4Hirbi9HGbNn4Y4Q",
+        "title": "How to Prepare for an Angular Interview",
+        "description": "The video covers: The data structures and algorithms you should know How to prepare for common javascript code assignments How to prepare for common ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tii7oPQ1UgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tii7oPQ1UgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tii7oPQ1UgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Christian Lüdemann",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-17T18:44:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eUq81JvY_TgICuuVipdWMYKa5zw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zutrv4hxgpM"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-04T00:38:34Z",
+        "channelId": "UC4fiBcLILQscg3LO8dtpdgA",
+        "title": "Angular 2 Live Coding - Streaming Data #3",
+        "description": "This is one of a series of live coding videos, demonstrating various Angular 2 capabilities especially around streaming data using observable. Angular Boot ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zutrv4hxgpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zutrv4hxgpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zutrv4hxgpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Oasis Digital",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-04T00:38:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v-_juKDmB_C4VckwMSMs9VT0jbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LGKjlvebq5o"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-10T15:32:11Z",
+        "channelId": "UC-Gn7EgShAINFthjuzxi9PQ",
+        "title": "🔴Coding Login at FrontEnd | Working at FrontEnd | Login Using Angular | Eamportal #14",
+        "description": "In this video we are going to learn how to create login using angular . angular at frontend and spring boot at backend. FullPlaylist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LGKjlvebq5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LGKjlvebq5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LGKjlvebq5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learn Code With Durgesh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-10T15:32:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YZVeYz2FPJ_jOGC2Td2_6nWGRb0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fw9H1WIPMR8"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-25T03:07:14Z",
+        "channelId": "UCfKDDL3Tck4SZ2jsMTUcEpA",
+        "title": "#1 Angular Tutorial | Angular in Tamil | Cheetah Media",
+        "description": "Hi Friends in this Video we will learn about Angular Introuduction and some basic typescripts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fw9H1WIPMR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fw9H1WIPMR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fw9H1WIPMR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cheetah Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-25T03:07:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dspEyyRKqzcHP6-VnHUt3gzbWJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ufyyhFye7MQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-23T10:17:41Z",
+        "channelId": "UCzojeE6CxKUKIHwOpfmxjDQ",
+        "title": "Folder structure and flow of angular application | Angular Tutorial",
+        "description": "Let's understand the folder structure of angular application and also understand how data flow in angular application in this video. . You can support me by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ufyyhFye7MQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ufyyhFye7MQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ufyyhFye7MQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Study Mash",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-23T10:17:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HPMDcgiWKHIZQTksHmcWZg63U78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dCu7OoKXH7o"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-23T05:26:47Z",
+        "channelId": "UCyjNY_GgJydoikYPv4U953A",
+        "title": "Angular 12 Project From Scratch, Employee Management App in Angular, Angular Project Coding Part 1",
+        "description": "Angular 12 Project From Scratch, Employee Management App in Angular, Angular Project Coding Part1, #Angular12 Project From Scratch, Employee ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dCu7OoKXH7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dCu7OoKXH7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dCu7OoKXH7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Testy Codeiz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-23T05:26:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QFeE7cLbPvhggQXEyP25KJpAwDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4rZVU4JedVU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-14T07:14:59Z",
+        "channelId": "UCyjNY_GgJydoikYPv4U953A",
+        "title": "Angular 11 project from Scratch, Contact Management in Angular, Coding in Angular with TestyCodeiz",
+        "description": "Angular 11 project from Scratch, Contact Management in Angular, Coding in Angular with TestyCodeiz,Angular project from scratch,Angular 11 project,Contact ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4rZVU4JedVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4rZVU4JedVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4rZVU4JedVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Testy Codeiz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-14T07:14:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6DoQsYNNYVLwEBL5rX36owNkV1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_BKMX0qiOZ4"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-27T04:30:12Z",
+        "channelId": "UCu7HHaJH0CuRttKeDbRw2Vw",
+        "title": "HackerRank Coding Interview | Angular | Customer Records | codingindian.com",
+        "description": "HackerRank Coding Interview | Angular | Customer Records | codingindian.com Question Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BKMX0qiOZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BKMX0qiOZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BKMX0qiOZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Pullingo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-27T04:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2ZMl3TWDEJuYvZyYloY32KbFoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W5dEbsHrb9k"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-22T10:16:05Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Angular for Beginners | Shalini Mittal",
+        "description": "Pre-Requisites ➡️HTML ➡️CSS ➡️JavaScript Good to Know: XML JSON HTTP VERBS REST SERVICES ⚫️ Instal node.js from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5dEbsHrb9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5dEbsHrb9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5dEbsHrb9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Telusko",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-22T10:16:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uxlvjwXsm6jQzOx3gm1PAsJfCE0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MQKpbEV_p88"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-12T06:34:21Z",
+        "channelId": "UCOxbcakysLMm7PSIU096cuA",
+        "title": "Google Clone Speed Coding - Angular 10",
+        "description": "It is a really cool Google clone with - Google Search - Looks like Google - Google Authentication It is built with Angular 10 and the technologies used were free ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQKpbEV_p88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQKpbEV_p88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQKpbEV_p88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dart Css",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-12T06:34:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B7nk19Er_hn_vlnB0chapa68Xhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yG4FH60fhUE"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-02T09:17:55Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Testing Angular 2+ Apps with Jasmine and Karma | Mosh",
+        "description": "Get the COMPLETE COURSE (60% OFF - LIMITED TIME): https://programmingwithmosh.com/courses/angular A step-by-step and pragmatic introduction to unit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yG4FH60fhUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yG4FH60fhUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yG4FH60fhUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-02T09:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cb0zn_q98aQHGDEczaiiuB0sua4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K20BGXaf6V0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-21T19:03:17Z",
+        "channelId": "UCpp5f00_foq45lcHKITgBig",
+        "title": "6. Creating Angular Project (Front End)",
+        "description": "In this video, we create our brand new Angular 9 project for the frontend and explore various parts of it. We will also see how we can use the CLI to generate new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K20BGXaf6V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K20BGXaf6V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K20BGXaf6V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming's Fun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-21T19:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UKiY9MUFQcmFlUHm_aWqxJ8W1Yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e16rt1g1HHc"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-16T20:54:01Z",
+        "channelId": "UCRQZufahHeq78slKAdFIjBQ",
+        "title": "Java and Angular  Coding in Visual Studio Code",
+        "description": "See how you can use Visual Studio Code for both your Java and Angular Coding, or pretty much anything you wish to code.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e16rt1g1HHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e16rt1g1HHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e16rt1g1HHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWESIGOMWE GILBERT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-16T20:54:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVw2Xvc3vpJJ_WIH256sk7jHwF4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hAaoPOx_oIw"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-06T21:28:58Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Building Forms in Angular Apps | Mosh",
+        "description": "Get the COMPLETE COURSE (60% OFF - LIMITED TIME): https://programmingwithmosh.com/courses/angular Learn to build forms with validation in your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hAaoPOx_oIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hAaoPOx_oIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hAaoPOx_oIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-06T21:28:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1k0hMTLLdQwQ9-bfBKuu9Dptjqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kuVAMwPmqcM"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-31T01:30:15Z",
+        "channelId": "UC80jpLJc6Pax53q8AZCcMAA",
+        "title": "ANGULAR ROUTE GUARDS CODING | ANGULAR IN TELUGU",
+        "description": "ANGULAR #ANGULARINTELUGU #TELUGUTECHSTEPS. ENROLL LINKs ANGULAR 10 COURSE Enroll Link: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kuVAMwPmqcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kuVAMwPmqcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kuVAMwPmqcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TeluguTechSteps",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-31T01:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GU9q_ddSK1jNBcjLtOa68p_bE7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7kSd1nSrJI"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-09T14:38:33Z",
+        "channelId": "UCeVMnSShP_Iviwkknt83cww",
+        "title": "Single Page Applications: Why &amp; When to use React/Angular/Vue.js?",
+        "description": "In this video, we will look into why and when should we be using frameworks like angular and react. There are many resources to learn React and Angular but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7kSd1nSrJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7kSd1nSrJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7kSd1nSrJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CodeWithHarry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-09T14:38:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qZ11Zt1XruIl55zOLCvJpM70z1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gx4iBLKLVHk"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-05T14:00:13Z",
+        "channelId": "UC2KfmYEM4KCuA1ZurravgYw",
+        "title": "Spring Boot Full Stack with Angular | Full Course [2021] [NEW]",
+        "description": "In this Spring Boot tutorial you will learn Spring Boot full stack with Angular. Angular is a great framework to build front end app. For this Spring Boot tutorial, you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gx4iBLKLVHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gx4iBLKLVHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gx4iBLKLVHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amigoscode",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-05T14:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QzI9NE-fdbnk60wRb2tGAokBx7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-jeoyDJDsSM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-12T03:03:50Z",
+        "channelId": "UCH912uDFX3sIaPXMrJa9X_w",
+        "title": "Angular Interview Questions and Answers | Angular Interview Questions | Top Angular Questions",
+        "description": "Full Angular Interview Questions & answers videos @ 499 INR from https://tinyurl.com/angularinterview Buy full Angular course from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-jeoyDJDsSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-jeoyDJDsSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-jeoyDJDsSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Questpond",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-12T03:03:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "05Mdot7-YMClxY4AZqkgaCOZguA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zGYSqYaxq94"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-17T10:02:10Z",
+        "channelId": "UCZQl58T-FqWTUXEdLNQbVQg",
+        "title": "Angular 11 | Angular 12 Tutorial For Beginners | Angular Tutorial For Beginners",
+        "description": "Learn Angular 11, Angular 12 by building a complete application. This is an in-depth Angular 11, 12 tutorial where we create a Todo Application using Angular ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zGYSqYaxq94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zGYSqYaxq94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zGYSqYaxq94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Art of Coding With Mohinish",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-17T10:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ShXs-LS2jsjDZBQP-6Q4e25MUW4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r2ga-iXS5i4"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-07T15:00:04Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Ionic 4 &amp; Angular Tutorial For Beginners - Crash Course",
+        "description": "Learn to build iOS, Android and web apps from scratch with Ionic 4 and Angular! Join the full Ionic + Angular course: https://acad.link/ionic Exclusive discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2ga-iXS5i4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2ga-iXS5i4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2ga-iXS5i4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-07T15:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x2vJjouCmQMDK2wAeyn5oAioX3I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hvcm6fphC9Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-04T03:35:38Z",
+        "channelId": "UCLwqcyNJeh_Hfjz2Sny_nNw",
+        "title": "speed coding | Angular | Loopback | CRUD",
+        "description": "Es un video en donde se muestra el desarrollo completo de un crud con la implementación de angular en el frontend y loopback en el backend, también se usa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hvcm6fphC9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hvcm6fphC9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hvcm6fphC9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cxyz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-04T03:35:38Z"
+      }
+    }
+  ]
+}
