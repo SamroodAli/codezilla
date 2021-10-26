@@ -24,7 +24,7 @@ const searchVideos = (term) => async (dispatch) => {
 };
 
 const setCurrentVideo = (video) => {
-  history.push(`${video.eTag}`);
+  history.push(`${video.etag}`);
   return onSelectVideo(video);
 };
 

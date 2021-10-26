@@ -1,8 +1,10 @@
 import { combineReducers } from 'redux';
-import videosReducer from './videosReducer';
+import videos from './videos';
+import currentVideo from './currentVideo';
 
 const reducers = combineReducers({
-  videos: videosReducer,
+  videos,
+  currentVideo,
 });
 
 export default reducers;

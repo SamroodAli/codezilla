@@ -3,7 +3,11 @@ import { useSelector } from 'react-redux';
 
 const VideoShow = () => {
   const currentVideo = useSelector(({ currentVideo }) => currentVideo);
-  const { thumbnails, description, title } = currentVideo;
+  if (!currentVideo) {
+    return <div>Loading</div>;
+  }
+
+  const { thumbnails, description, title } = currentVideo.snippet;
 
   return (
     <div>

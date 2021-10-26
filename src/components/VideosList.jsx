@@ -7,7 +7,7 @@ const VideoList = () => {
   const { setCurrentVideo } = useActions();
 
   const videoItems = videos.map((video) => (
-    <VideoItem video={video.snippet} key={video.eTag} onClick={() => setCurrentVideo(video)} />
+    <VideoItem video={video.snippet} key={video.etag} onClick={() => setCurrentVideo(video)} />
   ));
 
   return <div>{videoItems}</div>;
