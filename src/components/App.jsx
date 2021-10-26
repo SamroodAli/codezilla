@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import SearchBar from './SearchBar';
 import VideoList from './VideosList';
 import VideoShow from './VideoShow';
 

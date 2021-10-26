@@ -1,4 +1,6 @@
-import youtube from '../../api/youtube';
+// import youtube from '../../api/youtube';
+// import youtube from '../../api/publicYoutube';
+import axios from 'axios';
 
 import {
   onSearch,
@@ -10,7 +12,7 @@ import {
 const searchVideos = (term) => async (dispatch) => {
   try {
     dispatch(onSearch());
-    const { data } = await youtube.get('/search', {
+    const { data } = await axios.get(`/data/${term}`, {
       params: {
         q: `${term} coding`,
       },
@@ -26,11 +28,7 @@ const setCurrentVideo = (video) => onSelectVideo(video);
 
 const searchVideo = (term) => async (dispatch) => {
   try {
-    const { data } = await youtube.get('/videos', {
-      params: {
-        id: term,
-      },
-    });
+    const { data } = await axios.get(`/data/${term}`);
 
     if (data.items.length) {
       dispatch(onSelectVideo(data.items[0]));
