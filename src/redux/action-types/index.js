@@ -4,6 +4,7 @@ const actionTypes = {
   SEARCH_VIDEOS_ERROR: 'SEARCH_VIDEOS_ERROR',
   VIDEO_SELECT: 'VIDEO_SELECT',
   SET_THEME: 'SET_THEME',
+  FILTER: 'FILTER',
 };
 
 export default actionTypes;
