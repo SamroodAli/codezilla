@@ -1,10 +1,11 @@
 import { useSelector } from 'react-redux';
+import VideoItem from './VideoItem';
 
 const VideoList = () => {
   const videos = useSelector(({ videos }) => videos);
 
   const videoItems = videos.map((video) => (
-    <VideoItem video={video} key={video.etag} />
+    <VideoItem video={video.snippet} key={video.etag} />
   ));
 
   return <div>{videoItems}</div>;
