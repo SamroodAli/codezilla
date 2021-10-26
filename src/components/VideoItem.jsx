@@ -1,15 +1,15 @@
 import PropTypes from 'prop-types';
 
-const VideoItem = ({ video, onClick }) => {
+const VideoItem = ({ video }) => {
   const { thumbnails, description, title } = video;
 
   return (
-    <button type="button" onClick={onClick}>
+    <div>
       <img className="ui image" src={thumbnails.medium.url} alt={description} />
       <div className="content">
         <div className="header">{title}</div>
       </div>
-    </button>
+    </div>
   );
 };
 
@@ -23,6 +23,5 @@ VideoItem.propTypes = {
     description: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
   }).isRequired,
-  onClick: PropTypes.func.isRequired,
 };
 export default VideoItem;

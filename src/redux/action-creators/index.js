@@ -1,5 +1,4 @@
-// import youtube from '../../api/youtube';
-import history from '../../history';
+import { videoSearch, videoListSearch } from '../../api/youtube';
 
 import {
   onSearch,
@@ -11,12 +10,12 @@ import {
 const searchVideos = (term) => async (dispatch) => {
   try {
     dispatch(onSearch());
-    // const { data } = await youtube.get('/search', {
+    // const { data } = await videoListSearch.get('/search', {
     //   params: {
     //     q: `${term} coding`,
     //   },
     // });
-    console.log(term);
+
     const items = [
       {
         kind: 'youtube#searchResult',
@@ -366,13 +365,26 @@ const searchVideos = (term) => async (dispatch) => {
   }
 };
 
-const setCurrentVideo = (video) => {
-  history.push(`${video.etag}`);
-  return onSelectVideo(video);
+const setCurrentVideo = (video) => onSelectVideo(video);
+
+const searchVideo = (term) => async (dispatch) => {
+  try {
+    dispatch(onSearch());
+    const { data } = await videoSearch.get('/search', {
+      params: {
+        id: `${term} coding`,
+      },
+    });
+
+    dispatch(onSearchSuccess(data.items));
+  } catch (err) {
+    dispatch(onSearchError());
+  }
 };
 
 const actionCreators = {
   searchVideos,
+  searchVideo,
   setCurrentVideo,
 };
 
