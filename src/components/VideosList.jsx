@@ -7,6 +7,7 @@ import useActions from '../hooks/useActions';
 const VideoList = () => {
   const videos = useSelector(({ videos }) => videos);
   const { setCurrentVideo, searchVideos } = useActions();
+
   useEffect(() => {
     searchVideos('react');
   }, []);
