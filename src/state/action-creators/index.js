@@ -1,17 +1,19 @@
-import {SEARCH_VIDEOS} from "../action-types"
-import youtube from "../../api/youtube"
+import youtube from "../../api/youtube";
+import { onSearch, onSearchSuccess, onSearchError } from "../../actions";
 
-
-export const searchVideos = (term)=>{
-  return async(dispatch)=>{
+export const searchVideos = (term) => {
+  return async (dispatch) => {
     try {
-      const {data} = await youtube.get("/search",{
-        params:{
-          q:term
-        }
+      dispatch(onSearch());
+      const { data: items } = await youtube.get("/search", {
+        params: {
+          q: term,
+        },
       });
-    }catch(err){
-      console.error(err)
+
+      dispatch(onSearchSuccess(items));
+    } catch (err) {
+      dispatch(onSearchError());
     }
-  }
-}
+  };
+};

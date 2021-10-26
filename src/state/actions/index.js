@@ -1,4 +1,14 @@
-import {LOADING_VIDEOS,SET_VIDEOS} from "../action-types"
+import {
+  SEARCH_VIDEOS,
+  SEARCH_VIDEOS_SUCCESS,
+  SEARCH_VIDEOS_ERROR,
+} from "../action-types";
 
-export const loadingVideos = ()=>({type:LOADING_VIDEOS})
-export const setVideos = (videos)=>({type:SET_VIDEOS,payload:videos})
+export const onSearch = () => ({ type: SEARCH_VIDEOS });
+
+export const onSearchSuccess = (videos) => ({
+  type: SEARCH_VIDEOS_SUCCESS,
+  payload: videos,
+});
+
+export const onSearchError = () => ({ type: SEARCH_VIDEOS_ERROR });

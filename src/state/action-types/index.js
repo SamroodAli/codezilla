@@ -1,6 +1,7 @@
 const actionTypes = {
-  LOADING_VIDEOS:"LOADING_VIDEOS",
-  SET_VIDEOS:"SET_VIDEOS"
-}
+  SEARCH_VIDEOS: "SEARCH_VIDEOS",
+  SEARCH_VIDEOS_SUCCESS: "SEARCH_VIDEOS_SUCCESS",
+  SEARCH_VIDEOS_ERROR: "SEARCH_VIDEOS_ERROR",
+};
 
-export default actionTypes
+export default actionTypes;
