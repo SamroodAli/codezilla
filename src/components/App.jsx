@@ -6,15 +6,13 @@ import VideoShow from './VideoShow';
 import history from '../history';
 
 const App = () => (
-  <div>
-    <Router history={history}>
-      <SearchBar />
-      <Switch>
-        <Route path="/:id" component={VideoShow} />
-        <Route exact path="/" component={VideoList} />
-      </Switch>
-    </Router>
-  </div>
+  <Router history={history}>
+    <SearchBar />
+    <Switch>
+      <Route exact path="/" component={VideoList} />
+      <Route path="/:id" component={VideoShow} />
+    </Switch>
+  </Router>
 );
 
 export default App;
