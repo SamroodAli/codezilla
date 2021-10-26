@@ -1,7 +1,0 @@
-const actionTypes = {
-  SEARCH_VIDEOS: "SEARCH_VIDEOS",
-  SEARCH_VIDEOS_SUCCESS: "SEARCH_VIDEOS_SUCCESS",
-  SEARCH_VIDEOS_ERROR: "SEARCH_VIDEOS_ERROR",
-};
-
-export default actionTypes;

@@ -1,7 +1,6 @@
-import actionTypes from "../action-types";
+import actionTypes from '../action-types';
 
-const { SEARCH_VIDEOS, SEARCH_VIDEOS_SUCCESS, SEARCH_VIDEOS_ERROR } =
-  actionTypes;
+const { SEARCH_VIDEOS, SEARCH_VIDEOS_SUCCESS, SEARCH_VIDEOS_ERROR } = actionTypes;
 
 const videosReducer = (state = [], action) => {
   switch (action.type) {
