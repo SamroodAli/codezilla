@@ -1,7 +1,9 @@
 import PropTypes from 'prop-types';
+import { useSelector } from 'react-redux';
 
-const VideoShow = ({ video }) => {
-  const { thumbnails, description, title } = video;
+const VideoShow = () => {
+  const currentVideo = useSelector(({ currentVideo }) => currentVideo);
+  const { thumbnails, description, title } = currentVideo;
 
   return (
     <div>
