@@ -1,6 +1,6 @@
 import actionTypes from '../action-types';
 
-const { FILTER } = actionTypes;
+const { SET_FILTER } = actionTypes;
 
 const initialState = {
   React: true,
@@ -14,7 +14,7 @@ const initialState = {
 
 const videoSelector = (state = initialState, action) => {
   switch (action.type) {
-    case FILTER: {
+    case SET_FILTER: {
       return { ...state, [action.payload]: !state[action.payload] };
     }
     default: {
