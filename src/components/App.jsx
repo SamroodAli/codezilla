@@ -9,8 +9,8 @@ const App = () => (
   <BrowserRouter>
     <BaseWeb>
       <Switch>
-        <Route path="/courses" component={Courses} />
         <Route path="/courses/:id" component={VideoShow} />
+        <Route path="/courses" component={Courses} />
         <Route path="/" component={Home} />
       </Switch>
     </BaseWeb>

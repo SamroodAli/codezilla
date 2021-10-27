@@ -1,12 +1,12 @@
 import { useEffect } from 'react';
 import { useSelector } from 'react-redux';
-import { Link } from 'react-router-dom';
-import VideoItem from './VideoItem';
 import useActions from '../hooks/useActions';
+import Paginator from './Pagination';
+import CoursesListPage from './CoursesListPage';
 
 const VideoList = () => {
   const { videos, filters } = useSelector((state) => state);
-  const { setCurrentVideo, searchVideos } = useActions();
+  const { searchVideos } = useActions();
 
   useEffect(() => {
     searchVideos();
@@ -19,13 +19,12 @@ const VideoList = () => {
     return [...prev];
   }, []);
 
-  const videoItems = courses.map((video) => (
-    <Link to={`/${video.etag}`} key={video.etag} onClick={() => setCurrentVideo(video)}>
-      <VideoItem video={video.snippet} />
-    </Link>
-  ));
-
-  return <div>{videoItems}</div>;
+  return (
+    <div>
+      <Paginator pages={courses.length / 4} />
+      <CoursesListPage courses={courses} />
+    </div>
+  );
 };
 
 export default VideoList;
