@@ -7,13 +7,16 @@ import {
 } from 'baseui/header-navigation';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
+import {
+  DisplayMedium,
+} from 'baseui/typography';
 
 const Nav = ({ button }) => (
   <HeaderNavigation>
     <StyledNavigationList $align={ALIGN.left}>
       <StyledNavigationItem>
         <Link to="/">
-          COdZilla
+          <DisplayMedium>Codzilla</DisplayMedium>
         </Link>
       </StyledNavigationItem>
     </StyledNavigationList>
