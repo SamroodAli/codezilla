@@ -9,7 +9,7 @@ const initialState = {
   'Functional Programming': false,
   'Object Oriented Programming': false,
   Microservices: false,
-  JAMStack: false,
+  'JAM Stack': false,
 };
 
 const videoSelector = (state = initialState, action) => {

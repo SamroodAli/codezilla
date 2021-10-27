@@ -3576,6 +3576,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "YVsGYdHRtAfaFmD2u8z58DaO3EQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fsVL_xrYO0w"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-14T18:58:41Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Object Oriented vs Functional Programming with TypeScript",
+        "description": "Learn how object-oriented and functional ❄️ programming are awesome in their own ways. Also, get infallible answers answers to questions like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsVL_xrYO0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-14T18:58:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "SAYsriT1wabYGdMu4iTIFX39FbU",
       "id": {
         "kind": "youtube#video",
@@ -4218,6 +4252,40 @@
         "channelTitle": "Devoxx",
         "liveBroadcastContent": "none",
         "publishTime": "2017-11-09T11:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lh5Kng-nMsC_CwLa6fjt7dWs6VY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aoE-92Ac4zE"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T16:00:08Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Functional, Procedural &amp; Object-oriented Programming - An Overview",
+        "description": "What's the difference between functional, procedural and object-oriented programming (OOP)? Let's take a closer look and build the same demo-app in three ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T16:00:08Z"
       }
     },
     {
@@ -5648,6 +5716,40 @@
         "channelTitle": "kudvenkat",
         "liveBroadcastContent": "none",
         "publishTime": "2015-01-31T12:03:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lh5Kng-nMsC_CwLa6fjt7dWs6VY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aoE-92Ac4zE"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T16:00:08Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Functional, Procedural &amp; Object-oriented Programming - An Overview",
+        "description": "What's the difference between functional, procedural and object-oriented programming (OOP)? Let's take a closer look and build the same demo-app in three ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aoE-92Ac4zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T16:00:08Z"
       }
     },
     {
@@ -10072,6 +10174,1708 @@
         "channelTitle": "Coding Garden",
         "liveBroadcastContent": "none",
         "publishTime": "2019-07-25T04:48:39Z"
+      }
+    }
+  ],
+  "Microservices": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1GmvCmIkPNxwT2-maeGb5yVk-Q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "atCbbvKOKnU"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-15T16:55:36Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Microservices Coding Tutorial in Java and Go",
+        "description": "This live session describes three simple services used in most distributed microservice architecture systems. We use Go for creating a reverse proxy and Java ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atCbbvKOKnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atCbbvKOKnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atCbbvKOKnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-15T16:55:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXReQp1RsesVUOuO4zL46VPLYtU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tuJqH3AV0e8"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-29T08:30:02Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Microservices Full Course - Learn Microservices in 4 Hours | Microservices Tutorial | Edureka",
+        "description": "Microservices Architecture Training: https://www.edureka.co/microservices-architecture-training ) This Edureka Microservices Full Course video will help you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tuJqH3AV0e8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tuJqH3AV0e8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tuJqH3AV0e8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-29T08:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UBwR_JeNhNEe6A5N7sUeqbcD2qA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gD-WutJH0qc"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-22T13:46:24Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "React/Node.js Microservices App With Docker and GraphQL | Part 1 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gD-WutJH0qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gD-WutJH0qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gD-WutJH0qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-22T13:46:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sfGYJQwhcghf2L7Gc4sYC9-y5o8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JgqDajrdSrY"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-20T13:18:03Z",
+        "channelId": "UChdVVEAilVHULlycMbqRpdg",
+        "title": "Microservices made easy with cote.js - lecture by Armagan Amcalar - Code Europe Autumn 2017",
+        "description": "The concept of microservices is extremely hot. Unfortunately, we see a lot of ideas from the past rebranded as microservices; whereas the thinking behind ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JgqDajrdSrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JgqDajrdSrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JgqDajrdSrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Code Europe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-20T13:18:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_BWCV9M_XAzTFHPTfknjcrvCJSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0iB5IPoTDts"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-21T14:44:14Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Python Microservices Web App (with React, Django, Flask) - Full Course",
+        "description": "Using Python microservices allows you to break up your apps into smaller parts that communicate with each other. This can make it simpler to scale the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0iB5IPoTDts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0iB5IPoTDts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0iB5IPoTDts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-21T14:44:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xHyVglZuKYDdP_B0sDMPv7A6NE0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GwafAoXKV8A"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-20T05:39:27Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Microservices vs API | Differences Between Microservice and API | Edureka",
+        "description": "Microservices Architecture Training: https://www.edureka.co/microservices-architecture-training This Edureka video on Microservices vs API talks about the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GwafAoXKV8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GwafAoXKV8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GwafAoXKV8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-20T05:39:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ss7AogPuqG_Hqf-zQUzWxPqTOQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsCfPxjmnjo"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-29T11:00:01Z",
+        "channelId": "UC0BAd8tPlDqFvDYBemHcQPQ",
+        "title": "Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?",
+        "description": "In \"Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?\" I walk you through what a Microservice is and what this 3 part tutorial will ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsCfPxjmnjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsCfPxjmnjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsCfPxjmnjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fredrik Christenson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-29T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dg4y4Hd5OblaLcvQL25hLKuC20Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xS_MD4m1GEU"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-23T23:53:46Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Creating Microservices Using Node.js, GraphQL and MySQL | Part 3 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xS_MD4m1GEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xS_MD4m1GEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xS_MD4m1GEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-23T23:53:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jcCnnOuJYkv_0hLIsbmyPrGV9GY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ynPogTF1x9s"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-03T14:55:52Z",
+        "channelId": "UCfC-xobe4Mr4ADhM-xauHtg",
+        "title": "[LIVE CODING] - Microservices in Node.js + React.js - PART 1",
+        "description": "Prerequisites 1. Node.js - https://nodejs.org/en/ 2. Postman - https://www.postman.com/ Who am I? http://www.revivalx.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ynPogTF1x9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ynPogTF1x9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ynPogTF1x9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mohammad Nurdin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-03T14:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7z3QuhxD3qj3yUesiuT9D5_xG1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xuH81XGWeGQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T13:11:02Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Microservices Design Patterns | Microservices Architecture Patterns | Edureka",
+        "description": "Microservices Architecture Training: https://www.edureka.co/microservices-architecture-training ** This Edureka's video on Microservices Design Patterns talks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xuH81XGWeGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xuH81XGWeGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xuH81XGWeGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T13:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p68DLLlLEL3MuYT3EOOkckc7a18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PUmXufS9y-8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-08T08:12:49Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Microservices Chat App Using React/Node.js/TypeScript/GraphQL | Part 1 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PUmXufS9y-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PUmXufS9y-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PUmXufS9y-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-08T08:12:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nkqD438hoAXJxX_PnMi65S2kRa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Yfm5gHQjaQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-22T23:41:39Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Using MySQL in Microservices with Docker | React/Node.js Microservices App | Part 2 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Yfm5gHQjaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Yfm5gHQjaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Yfm5gHQjaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-22T23:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zb65UMuSSqO1E5kYNJADksBQaoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t5L1uf387q8"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-25T00:57:40Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Node.js/GraphQL Microservices App With Docker and React | Part 4 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5L1uf387q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5L1uf387q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5L1uf387q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-25T00:57:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64XcmxgvpKlKJk0scfjvW5Hy_M4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VHSZ6Yi9i8c"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T09:26:37Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Setting Up a Microservice API Gateway | Microservices Chat App Part 6 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VHSZ6Yi9i8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VHSZ6Yi9i8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHSZ6Yi9i8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T09:26:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-8U9_HnTutu_N5_U6D_9a7MIbTY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TMWOdaO8_Is"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-06T03:01:34Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Deploying React/Node.js Microservices to AWS using Terraform | Part 1 | Code With Me!",
+        "description": "The original video series: https://www.youtube.com/watch?v=gD-WutJH0qc&list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6&index=2&t=0s Follow us on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TMWOdaO8_Is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TMWOdaO8_Is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TMWOdaO8_Is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-06T03:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etjwvrtaG6S5dQppbOLCn_BI6-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1gU2oGFayY"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-01T01:59:22Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "What are microservices really all about? - Microservices Basics Tutorial",
+        "description": "Introduction to Microservices There's a lot of buzz about microservices these days. In this video, get a basic introduction to microservices explained! Learn what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1gU2oGFayY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1gU2oGFayY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1gU2oGFayY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-01T01:59:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tSSLHN1ENFCVrh-WYLDlvWoOpZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FCz10zapsI8"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-04T04:54:47Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Node.js Docker Tutorial For Beginners | Dockerizing Node.js Application | DevOps Training | Edureka",
+        "description": "Edureka DevOps Certification Training: https://www.edureka.co/devops-certification-training ** This Edureka video on 'Node.js Docker Tutorial' will help you in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FCz10zapsI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FCz10zapsI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCz10zapsI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-04T04:54:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DbONgjaqqGYMmSEgO8-iPfjlPNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fx3ZGy-mbV4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-22T13:05:48Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "What Is Serverless?",
+        "description": "In this video we will discuss what serverless actually means James Q Quick YouTube Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fx3ZGy-mbV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fx3ZGy-mbV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fx3ZGy-mbV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-22T13:05:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V8yPrtYI_Yex5unZYG46FxLE3ms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6FOq4cUdH8k"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-29T14:19:27Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js With Passport Authentication | Full Project",
+        "description": "In this video we will build a complete authentication app with login, register and access control using Node.js, Express, Passport, Mongoose and more. Sponsor: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6FOq4cUdH8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6FOq4cUdH8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6FOq4cUdH8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-29T14:19:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kU5Dbp1QU-XU9_u98KKUfMI7moA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GxLjcOE35oA"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-14T04:02:47Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "21 Discovering services through Eureka - Spring Boot Microservices Level 1",
+        "description": "Learn how to use the `@LoadBalanced` annotation to have RestTemplate do load balancing and service discovery to locate the service based on service ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GxLjcOE35oA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GxLjcOE35oA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GxLjcOE35oA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-14T04:02:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xZear2nOOlyLxY62ICBuf24iYh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7nafaH9SddU"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-21T21:29:47Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js API Authentication With JWT",
+        "description": "In this overview we will take a look at Node.js and JSON web tokens. I will show you how to create a route to generate a token and use that token to make a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7nafaH9SddU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7nafaH9SddU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7nafaH9SddU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-21T21:29:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kxAqaLOp4CQMDetCrxJf5tQ-suE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nF9g1825mwk"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-08T14:05:57Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Nodemailer - Send Emails From Your Node.js App",
+        "description": "In this video we will create a simple Node.js and Express app and implement the Nodemailer module to add a contact form. CODE: Complete Node app repo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nF9g1825mwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nF9g1825mwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nF9g1825mwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-08T14:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8CDqUJclnXieojbz19Q7Cc3008w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TQUy8ENesGY"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T14:19:57Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Deno Course - Better than Node.js?",
+        "description": "Learn how to use Deno in this complete course. Deno is a Node.js alternative created by the same person who created Node.js. In this tutorial course, you will ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TQUy8ENesGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TQUy8ENesGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TQUy8ENesGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T14:19:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JRCKupBc0rjObm-7ciFFMKZYQIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zWWgKlMEDUU"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-16T06:59:14Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Microservices Interview Questions and Answers | Microservices Architecture Training | Edureka",
+        "description": "Microservices Architecture Training - https://www.edureka.co/microservices-architecture-training ** This Edureka's Microservices Interview Questions and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zWWgKlMEDUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zWWgKlMEDUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zWWgKlMEDUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-16T06:59:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p2w78aU7Dg72e19NpnOfJyvwscs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WPKv8NA-ZhE"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-02T05:39:05Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "11 Using RestTemplate to call an external microservice API - Spring Boot Microservices Level 1",
+        "description": "Workshop recorded live on Jan 26, 2019. This course is still in progress. Learn how to use RestTemplate to make a REST API call from the Spring controller ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WPKv8NA-ZhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WPKv8NA-ZhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WPKv8NA-ZhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-02T05:39:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zoey2KLzgVwV1k10MLWFUBmU1x0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QfZGh_vZk-M"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-09T05:37:06Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "React/Node.js Microservices App on AWS with Terraform | Part 4 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfZGh_vZk-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfZGh_vZk-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfZGh_vZk-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-09T05:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mWKyZMrMpvE_TG4tRuj9Fewj9o8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UVAMha41dwo"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-05T16:00:04Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Handling Errors &amp; Improving the Project Setup | Creating a REST API with Node.js",
+        "description": "Things can go wrong in our Node RESTful API. Time to add some proper error handling. And let's also improve our workflow, so that we don't constantly have to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UVAMha41dwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UVAMha41dwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVAMha41dwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-05T16:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iMT0vC-wDhtN5G0nfHffG9SH8m4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hYbhj-9UwhM"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-07T00:26:20Z",
+        "channelId": "UCZ2yXS2VBIvjbVdxLvYCMuA",
+        "title": "Live Coding - Moleculer Go - Compatibility with Moleculer-JS #golang  #coding #microservices #JS",
+        "description": "Multistreaming with https://restream.io/ Moleculer Go - http://gomicro.services Code: https://github.com/moleculer-go/ Moleculer Go is an open source ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hYbhj-9UwhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hYbhj-9UwhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hYbhj-9UwhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Moleculer Go",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-07T00:26:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SrmB-ZEhB8SbTYJh2F4H3K_rQec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0lHUpeP8798"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-11T20:16:02Z",
+        "channelId": "UCIZrA3vwXuaIS94JycZWxsQ",
+        "title": "ObjectRiver introduces Node.js/Docker Microservices integration with No Programming",
+        "description": "Node microservices demo using ObjectRiver's Free REST CloudCompiler.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lHUpeP8798/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lHUpeP8798/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lHUpeP8798/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Steven Lemmo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-11T20:16:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5NhTW3lpC5BguxMNumKI2H7tANs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "73dQ5ErYeHw"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-06T07:29:11Z",
+        "channelId": "UCZ2yXS2VBIvjbVdxLvYCMuA",
+        "title": "Live Coding - Moleculer Go - Compatibility with Moleculer-JS #golang  #coding #microservices #JS",
+        "description": "Multistreaming with https://restream.io/ Moleculer Go - http://gomicro.services Code: https://github.com/moleculer-go/ Moleculer Go is an open source ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/73dQ5ErYeHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/73dQ5ErYeHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/73dQ5ErYeHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Moleculer Go",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-06T07:29:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IE5LlQ-uRW3onZX7DMqaDcy7wg4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R6Y0ewJ-ZIY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-03T18:00:03Z",
+        "channelId": "UCAocVBB14ixYUfdhKaSrvNQ",
+        "title": "Timestamp Microservice - APIs and Microservices Projects - Free Code Camp",
+        "description": "In this APIs and microservices project, we make a timestamp microservice. This is the fourth part of four sections where we work to achieve our APIs and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R6Y0ewJ-ZIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R6Y0ewJ-ZIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R6Y0ewJ-ZIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Useful Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-03T18:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eyv6Dl1NhQul5H4ZN-ddihKDLWU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vxJobGtqKVM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-11T22:08:03Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "What is Serverless?",
+        "description": "Learn more about Serverless Computing → http://ibm.biz/serverless-computing-guide Check out \"What is FaaS?\" lightboard video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vxJobGtqKVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vxJobGtqKVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vxJobGtqKVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-11T22:08:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cHxIjhCZLdGAXWmNDE7BrckhBZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MXcwB0yM0Bk"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-06T11:00:02Z",
+        "channelId": "UC5Wi_NYysX-LfcqT3Hq9Faw",
+        "title": "Timestamp Microservice Part 1: Free Code Camp API and Microservice Backend Development Certification",
+        "description": "Timestamp Microservice Part 1: Free Code Camp Backend Development Certification Support our Community: -Donate: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MXcwB0yM0Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MXcwB0yM0Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MXcwB0yM0Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dylan Israel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-06T11:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0dKvOKjBfdpItLDdF7ainfAFMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2hhEOGXcCvg"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-13T15:50:51Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "12.2: Using Express with Node - WebSockets and p5.js Tutorial",
+        "description": "In this video, I look at how to add express.js to your node application to serve static files. Source code: https://github.com/shiffman/Video-Lesson-Materials ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hhEOGXcCvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hhEOGXcCvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hhEOGXcCvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-13T15:50:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EwEXxKEYYd6s0zmvsODq9T-IRjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UBnSkjsJ-ow"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-02T05:39:05Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "10 Coding the third service and discussing communication - Spring Boot Microservices Level 1",
+        "description": "Workshop recorded live on Jan 26, 2019. This course is still in progress. Let's build the third hard-coded microservice and discuss how we can start ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UBnSkjsJ-ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UBnSkjsJ-ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UBnSkjsJ-ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-02T05:39:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h8LB4US67ArwsJvG0TbzLPL4rO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x9fdC9Ta6Hk"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T20:03:34Z",
+        "channelId": "UCAocVBB14ixYUfdhKaSrvNQ",
+        "title": "Request Header Parser - Microservice APIs and Microservices Projects - Free Code Camp",
+        "description": "In this APIs and micro-services project, we make a request header parser. This is the fourth part of four sections where we work to achieve our APIs and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9fdC9Ta6Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9fdC9Ta6Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9fdC9Ta6Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Useful Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T20:03:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Shupd-AaFuSCxUNiDansFj9-dxY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bs68k6xfR3E"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-06T15:15:51Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Testing Node.js with Mocha",
+        "description": "A thorough introduction to the Mocha test framework by the maintainer of Mocha, and how to use it to test your Node.js applications. Talk by Christopher Hiller ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bs68k6xfR3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bs68k6xfR3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bs68k6xfR3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-06T15:15:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qF0vhTJ_uJweiKbEuL4HAF_PlTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CZ3wIuvmHeM"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-22T17:29:35Z",
+        "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+        "title": "Mastering Chaos - A Netflix Guide to Microservices",
+        "description": "Ad: How is software engineering evolving in 2021? What are the topics that matter now in software development? Find out this November at QCon Plus Online ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZ3wIuvmHeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZ3wIuvmHeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZ3wIuvmHeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InfoQ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-22T17:29:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "llpPKV_e2xUZAbd4NG6WUCOhnnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z84uTk5zmak"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-23T12:55:31Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Koa.js Crash Course - Modern &amp; Minimalist Node.js Framework",
+        "description": "In this video we will look at the Koa framework which is a microframework created by the same creators of Express. We will look at basic concepts, setup, routing, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z84uTk5zmak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z84uTk5zmak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z84uTk5zmak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-23T12:55:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lrZ9DbPl7G2sc7df2ZTvfWWeHec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Abmaysrjd4"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-24T10:56:12Z",
+        "channelId": "UCFe9-V_rN9nLqVNiI8Yof3w",
+        "title": "Coding my UI | my first microservice | part 1",
+        "description": "Subscribe: https://goo.gl/1Ty1Q2 . I start building out my microservice mesh with a simple composite UI service. I use NGINX to power a small JavaScript\\HTML ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Abmaysrjd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Abmaysrjd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Abmaysrjd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That DevOps Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-24T10:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "plazTugmGfy_UzTr6-UvZsSgDoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lprC0yYeFw"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-10T15:11:08Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Hapi.js Framework Crash Course",
+        "description": "In this under 40 minute crash course we will be talking about and working with the Hapi.js server side framework. Hapi js is similar to Express. We can setup ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lprC0yYeFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lprC0yYeFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lprC0yYeFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-10T15:11:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f07ND0lO9yMIejwvQaEhKiLtbPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "980wnspXLe0"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-22T18:05:21Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Send SMS Text Messages From Node.js",
+        "description": "Add MailTag to your browser (it's free) ➜ https://goo.gl/qZf5Pj Thank you MailTag for sponsoring this video In this video we will be creating a client/server app that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/980wnspXLe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/980wnspXLe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/980wnspXLe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-22T18:05:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kOEUzIEuUQLdG3soLAoJkJ272Ew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qJt1O7N650w"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-02T18:00:06Z",
+        "channelId": "UCAocVBB14ixYUfdhKaSrvNQ",
+        "title": "Introduction to the APIs and Microservices - APIs and Microservices Projects - Free Code Camp",
+        "description": "In this APIs and microservices project, we make an introduction to the APIs and microservices section. This is the fourth part of four sections where we work to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJt1O7N650w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJt1O7N650w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJt1O7N650w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Useful Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-02T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CQ4uv4k22SDxJTS4CTxcQUn6ks4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iYM2zFP3Zn0"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-03T17:55:12Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "HTTP Crash Course &amp; Exploration",
+        "description": "In this video we will talk about HTTP and what it is, the request/response cycle, status codes, header/body and more. We will use Postman/Express.js to give ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYM2zFP3Zn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYM2zFP3Zn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYM2zFP3Zn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-03T17:55:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cmrgOMZX5NP33tU27IJQlAzeAYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X80nJ5T7YpE"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-26T06:44:24Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "Spring Boot + Spring Security + JWT from scratch - Java Brains",
+        "description": "In this tutorial, we'll be creating a brand new Spring Boot and Spring Security project and implement JWT based authentication and authorization. We'll create an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X80nJ5T7YpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X80nJ5T7YpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X80nJ5T7YpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-26T06:44:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zfpgdjhhsQTwHBKcJXj0Xd_XMIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "78YTqGpXnUE"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-25T23:34:41Z",
+        "channelId": "UCdDhYMT2USoLdh4SZIsu_1g",
+        "title": "Get Reactive! Programming, Systems, and Microservices",
+        "description": "Jeremy Davis, Principal Solution Architect, Red Hat Facebook has more than two billion active users per month, more than the number of active users of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78YTqGpXnUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78YTqGpXnUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78YTqGpXnUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Oracle Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-25T23:34:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W2IFUxv4ZggA2Ijx3atQ-lX2hTY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6IiF5e-Po3c"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-16T06:26:26Z",
+        "channelId": "UCTD_PLq3KAUwkIIs9fk3pAA",
+        "title": "Setting Up the Authentication Endpoint | Microservices Chat App Part 4 | Code With Me!",
+        "description": "Follow us on Instagram! https://www.instagram.com/bettercodingacademy/ Get a A$100000/year job as a web developer! https://codebetter.com.au Source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6IiF5e-Po3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6IiF5e-Po3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6IiF5e-Po3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Coding Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-16T06:26:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gvarD87zqer-O8Bc6KBshBDlMJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sRZtYZzefak"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-08T16:08:14Z",
+        "channelId": "UCfC-xobe4Mr4ADhM-xauHtg",
+        "title": "[LIVE CODING] - Microservices in Node.js + React.js - PART 2",
+        "description": "PART 1 - https://www.youtube.com/watch?v=ynPogTF1x9s SOURCE CODE PART 1 - https://github.com/datomnurdin/NodeCRUD Prerequisites 1. Node.js ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sRZtYZzefak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sRZtYZzefak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sRZtYZzefak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mohammad Nurdin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-08T16:08:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "um2exR_H6eMVHRvvXtQfbi0T9kw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6YAIYxChlwM"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-14T10:08:18Z",
+        "channelId": "UCXqwYHJKzmLO-EsBQDKfKZA",
+        "title": "Routing in Express Part 2 -- Free Code Camp -- Timestamp Microservice",
+        "description": "In this video series, Stephen Mayeux (https://github.com/StephenMayeux) demonstrates how to make a RESTful API in Node.js and Express with deployment to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6YAIYxChlwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6YAIYxChlwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6YAIYxChlwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stephen Mayeux",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-14T10:08:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-jmrNng-0XS_4LacAWHFVjo0FOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rin7gb9kdpk"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-08T09:50:23Z",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "title": "Node JS Tutorial for Beginners #30 - Handling POST Requests",
+        "description": "Yo ninjas, in this long overdue Node JS tutorial, I'll show you how we can handle POST requests in Node and parse the data we're sent using body-parser, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rin7gb9kdpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rin7gb9kdpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rin7gb9kdpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Net Ninja",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-08T09:50:23Z"
       }
     }
   ]

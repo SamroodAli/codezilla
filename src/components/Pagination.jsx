@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 const Paginator = ({ pages, currentPage, setCurrentPage }) => (
   <Pagination
-    numPages={Math.ceil(pages)}
+    numPages={pages}
     currentPage={currentPage}
     onPageChange={({ nextPage }) => {
       setCurrentPage(

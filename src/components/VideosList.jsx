@@ -8,6 +8,7 @@ const VideoList = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const { videos, filters } = useSelector((state) => state);
   const { searchVideos } = useActions();
+  const coursesPerPage = 8;
 
   useEffect(() => {
     searchVideos();
@@ -20,12 +21,14 @@ const VideoList = () => {
     return [...prev];
   }, []);
 
-  const paginate = (courses) => courses.slice((currentPage - 1) * 8, currentPage * 8);
+  const paginate = (
+    courses,
+  ) => courses.slice((currentPage - 1) * coursesPerPage, currentPage * coursesPerPage);
 
   return (
     <div>
       <Paginator
-        pages={Math.ceil(courses.length / 8)}
+        pages={Math.ceil(courses.length / coursesPerPage)}
         currentPage={Math.ceil(currentPage)}
         setCurrentPage={setCurrentPage}
       />

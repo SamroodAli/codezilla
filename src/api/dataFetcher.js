@@ -13,6 +13,8 @@ import axios from 'axios';
   const jamstack = jamstacks.data.items;
   const oops = await axios('/data/oop.json');
   const oop = oops.data.items;
+  const microservices = await axios('/data/microservices.json');
+  const microservice = microservices.data.items;
   const courses = {
     react,
     angular,
@@ -20,6 +22,7 @@ import axios from 'axios';
     oop,
     jamstack,
     vue,
+    Microservices: microservices,
   };
   console.log(courses);
 })();
