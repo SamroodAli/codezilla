@@ -3,13 +3,13 @@ import actionTypes from '../action-types';
 const { SET_FILTER } = actionTypes;
 
 const initialState = {
-  React: true,
-  Angular: true,
-  Vue: true,
-  'Functional Programming': true,
-  'Object Oriented Programming': true,
-  Microservices: true,
-  JAMStack: true,
+  React: false,
+  Angular: false,
+  Vue: false,
+  'Functional Programming': false,
+  'Object Oriented Programming': false,
+  Microservices: false,
+  JAMStack: false,
 };
 
 const videoSelector = (state = initialState, action) => {

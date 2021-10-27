@@ -5,6 +5,7 @@ import { Provider as StyletronProvider, DebugEngine } from 'styletron-react';
 import { BaseProvider, LightTheme, DarkTheme } from 'baseui';
 import { Button } from 'baseui/button';
 import useActions from '../hooks/useActions';
+import Nav from './Nav';
 
 const debug = process.env.NODE_ENV === 'production' ? undefined : new DebugEngine();
 const engine = new Styletron();
@@ -23,9 +24,12 @@ const BaseWeb = ({ children }) => {
   return (
     <StyletronProvider value={engine} debug={debug} debugAfterHydration>
       <BaseProvider theme={theme === THEME.light ? LightTheme : DarkTheme}>
-        <Button onClick={() => setTheme(toggleTheme(theme))}>
-          {`Go ${theme}`}
-        </Button>
+        <Nav button={(
+          <Button onClick={() => setTheme(toggleTheme(theme))}>
+            {`Go ${toggleTheme(theme)}`}
+          </Button>
+          )}
+        />
         {children}
       </BaseProvider>
     </StyletronProvider>
