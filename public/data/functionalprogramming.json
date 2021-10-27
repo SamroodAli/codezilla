@@ -1,12 +1,5 @@
 {
-  "kind": "youtube#searchListResponse",
-  "etag": "MMi1Ffxn7-p9lVVJptdXlzTz_vQ",
-  "nextPageToken": "CDIQAA",
-  "regionCode": "IN",
-  "pageInfo": {
-    "totalResults": 1000000,
-    "resultsPerPage": 50
-  },
+  "name": "functionalprogramming",
   "items": [
     {
       "kind": "youtube#searchResult",

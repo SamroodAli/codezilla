@@ -1,12 +1,5 @@
 {
-  "kind": "youtube#searchListResponse",
-  "etag": "xB7tX0rmdRhsNGqM5EeUoE9qJPM",
-  "nextPageToken": "CDIQAA",
-  "regionCode": "IN",
-  "pageInfo": {
-    "totalResults": 504623,
-    "resultsPerPage": 50
-  },
+  "name": "jamstack",
   "items": [
     {
       "kind": "youtube#searchResult",

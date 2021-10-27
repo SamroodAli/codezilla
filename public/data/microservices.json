@@ -1,12 +1,5 @@
 {
-  "kind": "youtube#searchListResponse",
-  "etag": "-OwxVLwyUkgT3h6SjJRG3KJ5iNQ",
-  "nextPageToken": "CDIQAA",
-  "regionCode": "IN",
-  "pageInfo": {
-    "totalResults": 563450,
-    "resultsPerPage": 50
-  },
+  "name": "microservices",
   "items": [
     {
       "kind": "youtube#searchResult",

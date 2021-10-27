@@ -8,6 +8,7 @@ const COURSES = [
   'Functional Programming',
   'Microservices',
   'JAM Stack',
+  'Object Oriented Programming',
 ];
 
 const Filter = () => {
@@ -19,7 +20,7 @@ const Filter = () => {
       {COURSES.map((course) => (
         <label htmlFor="React" key={course}>
           {course}
-          <input type="checkbox" id="css" onClick={() => setFilter(course)} checked={filterState[course]} />
+          <input type="checkbox" id="css" onChange={() => setFilter(course)} checked={filterState[course]} />
         </label>
       ))}
     </form>

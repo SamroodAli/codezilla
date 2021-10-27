@@ -5,14 +5,21 @@ import VideoItem from './VideoItem';
 import useActions from '../hooks/useActions';
 
 const VideoList = () => {
-  const videos = useSelector(({ videos }) => videos);
+  const { videos, filters } = useSelector((state) => state);
   const { setCurrentVideo, searchVideos } = useActions();
 
   useEffect(() => {
-    searchVideos('react');
+    searchVideos();
   }, []);
 
-  const videoItems = videos.map((video) => (
+  const courses = Object.entries(filters).reduce((prev, [category, isSelected]) => {
+    if (isSelected && videos[category]) {
+      return [...prev, ...videos[category]];
+    }
+    return [...prev];
+  }, []);
+
+  const videoItems = courses.map((video) => (
     <Link to={`/${video.etag}`} key={video.etag} onClick={() => setCurrentVideo(video)}>
       <VideoItem video={video.snippet} />
     </Link>

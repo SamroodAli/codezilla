@@ -9,12 +9,12 @@ import {
   onFilterSelect,
 } from '../actions';
 
-const searchVideos = (term) => async (dispatch) => {
+const searchVideos = () => async (dispatch) => {
   try {
     dispatch(onSearch());
-    const { data } = await axios.get(`/data/${term}.json`);
+    const { data } = await axios.get('/data/courses.json');
 
-    dispatch(onSearchSuccess(data.items));
+    dispatch(onSearchSuccess(data));
   } catch (err) {
     dispatch(onSearchError());
   }
@@ -22,11 +22,13 @@ const searchVideos = (term) => async (dispatch) => {
 
 const setCurrentVideo = (video) => onSelectVideo(video);
 
-const searchVideo = (searchTag) => async (dispatch) => {
+const searchVideo = (searchId) => async (dispatch) => {
   try {
     const { data } = await axios.get('/data/courses.json');
 
-    const video = data.find(({ etag }) => searchTag === etag);
+    const courses = Object.values(data).flat();
+
+    const video = courses.find(({ etag }) => searchId === etag);
 
     dispatch(onSelectVideo(video));
   } catch (err) {
