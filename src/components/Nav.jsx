@@ -10,32 +10,34 @@ import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 const Nav = ({ button }) => (
-  <HeaderNavigation>
-    <StyledNavigationList $align={ALIGN.left}>
-      <StyledNavigationItem>
-        <StyledLink>
-          <Link to="/">
-            COdZilla
-          </Link>
-        </StyledLink>
-      </StyledNavigationItem>
-    </StyledNavigationList>
-    <StyledNavigationList $align={ALIGN.center} />
-    <StyledNavigationList $align={ALIGN.right}>
-      <StyledNavigationItem>
-        <StyledLink>
-          <Link to="/courses">
-            Courses
-          </Link>
-        </StyledLink>
-      </StyledNavigationItem>
-    </StyledNavigationList>
-    <StyledNavigationList $align={ALIGN.right}>
-      <StyledNavigationItem>
-        {button}
-      </StyledNavigationItem>
-    </StyledNavigationList>
-  </HeaderNavigation>
+  <div style={{ position: 'sticky', top: 0 }}>
+    <HeaderNavigation>
+      <StyledNavigationList $align={ALIGN.left}>
+        <StyledNavigationItem>
+          <StyledLink>
+            <Link to="/">
+              COdZilla
+            </Link>
+          </StyledLink>
+        </StyledNavigationItem>
+      </StyledNavigationList>
+      <StyledNavigationList $align={ALIGN.center} />
+      <StyledNavigationList $align={ALIGN.right}>
+        <StyledNavigationItem>
+          <StyledLink>
+            <Link to="/courses">
+              Courses
+            </Link>
+          </StyledLink>
+        </StyledNavigationItem>
+      </StyledNavigationList>
+      <StyledNavigationList $align={ALIGN.right}>
+        <StyledNavigationItem>
+          {button}
+        </StyledNavigationItem>
+      </StyledNavigationList>
+    </HeaderNavigation>
+  </div>
 );
 
 Nav.propTypes = {
