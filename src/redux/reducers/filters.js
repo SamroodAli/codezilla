@@ -4,12 +4,12 @@ const { SET_FILTER } = actionTypes;
 
 const initialState = {
   React: true,
-  Angular: false,
-  Vue: false,
-  'Functional Programming': false,
-  'Object Oriented Programming': false,
-  Microservices: false,
-  'JAM Stack': false,
+  Angular: true,
+  Vue: true,
+  'Functional Programming': true,
+  'Object Oriented Programming': true,
+  Microservices: true,
+  'JAM Stack': true,
 };
 
 const videoSelector = (state = initialState, action) => {

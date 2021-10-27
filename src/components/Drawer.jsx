@@ -4,7 +4,7 @@ import { Button } from 'baseui/button';
 import Filters from './Filter';
 
 const FilterOptions = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <>
       <Button onClick={() => setIsOpen(true)}>Filter Courses</Button>

@@ -4,6 +4,13 @@ import PropTypes from 'prop-types';
 
 const Paginator = ({ pages, currentPage, setCurrentPage }) => (
   <Pagination
+    overrides={{
+      Root: {
+        style: ({ $theme }) => ({
+          backgroundColor: $theme.colors.primaryB,
+        }),
+      },
+    }}
     numPages={pages}
     currentPage={currentPage}
     onPageChange={({ nextPage }) => {
