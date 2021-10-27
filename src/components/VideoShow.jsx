@@ -17,12 +17,16 @@ const VideoShow = () => {
   const { description, title } = currentVideo.snippet;
 
   return (
-    <div>
-
-      <ReactPlayer url={videoUrl} controls playing />
-
-      <h4 className="ui header">{title}</h4>
-      <p>{description}</p>
+    <div className="show">
+      <div>
+        <ReactPlayer url={videoUrl} controls playing />
+        <h4 className="ui header">{title}</h4>
+        <p>{description}</p>
+      </div>
+      <div>
+        <textarea cols={50} rows={19} className="textarea" />
+        <button type="button">Create Note</button>
+      </div>
     </div>
   );
 };
