@@ -4,6 +4,7 @@ import { Client as Styletron } from 'styletron-engine-atomic';
 import { Provider as StyletronProvider, DebugEngine } from 'styletron-react';
 import { BaseProvider, LightTheme, DarkTheme } from 'baseui';
 import { Button } from 'baseui/button';
+import { Block } from 'baseui/block';
 import useActions from '../hooks/useActions';
 import Nav from './Nav';
 
@@ -20,7 +21,6 @@ const toggleTheme = (theme) => (theme === THEME.light ? THEME.dark : THEME.light
 const BaseWeb = ({ children }) => {
   const theme = useSelector(({ theme }) => theme);
   const { setTheme } = useActions();
-
   return (
     <StyletronProvider value={engine} debug={debug} debugAfterHydration>
       <BaseProvider theme={theme === THEME.light ? LightTheme : DarkTheme}>
@@ -30,7 +30,12 @@ const BaseWeb = ({ children }) => {
           </Button>
           )}
         />
-        {children}
+        <Block
+          backgroundColor="primaryB"
+          height="100vh"
+        >
+          {children}
+        </Block>
       </BaseProvider>
     </StyletronProvider>
   );

@@ -14,7 +14,7 @@ const VideoItem = ({ video, link, onClick }) => {
       alt={description}
 
     >
-      <HeadingSmall overrides={{ Root: { style: { textDecoration: 'none' } } }}>
+      <HeadingSmall>
         {title}
       </HeadingSmall>
       <StyledAction>

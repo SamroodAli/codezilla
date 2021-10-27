@@ -37,7 +37,11 @@ const VideoList = () => {
             setCurrentPage={setCurrentPage}
           />
         </FlexGridItem>
-        <FlexGridItem justifyContent="flex-end" display="flex">
+        <FlexGridItem
+          justifyContent="flex-end"
+          display="flex"
+
+        >
           <FilterOptions />
         </FlexGridItem>
 

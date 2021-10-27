@@ -1,24 +1,22 @@
 import * as React from 'react';
 import { Pagination } from 'baseui/pagination';
 import PropTypes from 'prop-types';
+import { Block } from 'baseui/block';
 
 const Paginator = ({ pages, currentPage, setCurrentPage }) => (
-  <Pagination
-    overrides={{
-      Root: {
-        style: ({ $theme }) => ({
-          backgroundColor: $theme.colors.primaryB,
-        }),
-      },
-    }}
-    numPages={pages}
-    currentPage={currentPage}
-    onPageChange={({ nextPage }) => {
-      setCurrentPage(
-        Math.min(Math.max(nextPage, 1), pages),
-      );
-    }}
-  />
+  <Block
+    backgroundColor="primaryB"
+  >
+    <Pagination
+      numPages={pages}
+      currentPage={currentPage}
+      onPageChange={({ nextPage }) => {
+        setCurrentPage(
+          Math.min(Math.max(nextPage, 1), pages),
+        );
+      }}
+    />
+  </Block>
 );
 
 Paginator.propTypes = {

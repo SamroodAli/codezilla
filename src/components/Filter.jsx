@@ -28,11 +28,11 @@ const Filter = () => {
         labelPlacement={LABEL_PLACEMENT.right}
         overrides={{
           Label: {
-            style: (({ $theme }) => {
-              console.log($theme);
-              return { color: $theme.colors.primaryA, backgroundColor: $theme.colors.primaryB };
-            }
-            ),
+            style:
+              ((
+                { $theme },
+              ) => ({ color: $theme.colors.primaryA, backgroundColor: $theme.colors.primaryB })
+              ),
           },
         }}
       >
