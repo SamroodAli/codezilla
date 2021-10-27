@@ -21,23 +21,27 @@ const Filter = () => {
   const { setFilter } = useActions();
   const filterState = useSelector(({ filters }) => filters);
 
-  return (
-    <form>
-      {COURSES.map((course) => (
-        <label htmlFor="React" key={course}>
-          <Checkbox
-            checked={filterState[course]}
-            onChange={() => setFilter(course)}
-            labelPlacement={LABEL_PLACEMENT.right}
-          >
-            <Label1>
-              {course}
-            </Label1>
-          </Checkbox>
-        </label>
-      ))}
-    </form>
-  );
+  return COURSES.map((course) => (
+    <label htmlFor="React" key={course}>
+      <Checkbox
+        checked={filterState[course]}
+        onChange={() => setFilter(course)}
+        labelPlacement={LABEL_PLACEMENT.right}
+        overrides={{
+          Label: {
+            style: (({ $theme }) => {
+              console.log($theme);
+              return { color: $theme.colors.primaryA, backgroundColor: $theme.colors.primaryB };
+            }
+            ),
+          },
+        }}
+      >
+        {course}
+
+      </Checkbox>
+    </label>
+  ));
 };
 
 export default Filter;
