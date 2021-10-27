@@ -23,10 +23,8 @@ const BaseWeb = ({ children }) => {
   return (
     <StyletronProvider value={engine} debug={debug} debugAfterHydration>
       <BaseProvider theme={theme === THEME.light ? LightTheme : DarkTheme}>
-        <Button
-          onClick={() => setTheme(toggleTheme(theme))}
-        >
-          Toggle light/dark theme!
+        <Button onClick={() => setTheme(toggleTheme(theme))}>
+          {`Go ${theme}`}
         </Button>
         {children}
       </BaseProvider>
