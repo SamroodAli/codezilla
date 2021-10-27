@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import { Card, StyledAction } from 'baseui/card';
 import { Button } from 'baseui/button';
-import { Paragraph1, HeadingSmall } from 'baseui/typography';
+import { HeadingSmall } from 'baseui/typography';
 import { Link } from 'react-router-dom';
 
 const VideoItem = ({ video, link, onClick }) => {
@@ -17,10 +17,6 @@ const VideoItem = ({ video, link, onClick }) => {
       <HeadingSmall overrides={{ Root: { style: { textDecoration: 'none' } } }}>
         {title}
       </HeadingSmall>
-
-      <Paragraph1>
-        {description}
-      </Paragraph1>
       <StyledAction>
         <Link to={`/courses/${link}`}>
           <Button overrides={{ BaseButton: { style: { width: '100%' } } }} onClick={onClick}>
