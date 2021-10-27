@@ -6,18 +6,27 @@ import {
   StyledNavigationItem,
 } from 'baseui/header-navigation';
 import { StyledLink } from 'baseui/link';
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 const Nav = ({ button }) => (
   <HeaderNavigation>
     <StyledNavigationList $align={ALIGN.left}>
-      <StyledNavigationItem>Macroverse</StyledNavigationItem>
+      <StyledNavigationItem>
+        <StyledLink>
+          <Link to="/">
+            COdZilla
+          </Link>
+        </StyledLink>
+      </StyledNavigationItem>
     </StyledNavigationList>
     <StyledNavigationList $align={ALIGN.center} />
     <StyledNavigationList $align={ALIGN.right}>
       <StyledNavigationItem>
-        <StyledLink href="courses">
-          Courses
+        <StyledLink>
+          <Link to="/courses">
+            Courses
+          </Link>
         </StyledLink>
       </StyledNavigationItem>
     </StyledNavigationList>

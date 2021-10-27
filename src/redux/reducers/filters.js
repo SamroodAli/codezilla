@@ -3,7 +3,7 @@ import actionTypes from '../action-types';
 const { SET_FILTER } = actionTypes;
 
 const initialState = {
-  React: false,
+  React: true,
   Angular: false,
   Vue: false,
   'Functional Programming': false,
