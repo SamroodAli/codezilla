@@ -16,7 +16,7 @@ const Nav = ({ button }) => (
     <StyledNavigationList $align={ALIGN.left}>
       <StyledNavigationItem>
         <Link to="/">
-          <DisplayMedium>Codzilla</DisplayMedium>
+          <DisplayMedium>CodeZilla</DisplayMedium>
         </Link>
       </StyledNavigationItem>
     </StyledNavigationList>

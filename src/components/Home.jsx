@@ -4,7 +4,7 @@ import {
 
 const Home = () => (
   <div>
-    <Display1>Welcome to COdZilla</Display1>
+    <Display1>Welcome to CodeZilla</Display1>
   </div>
 );
 

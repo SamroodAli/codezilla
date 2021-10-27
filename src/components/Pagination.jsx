@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Pagination } from 'baseui/pagination';
 import PropTypes from 'prop-types';
-import { DisplayLarge } from 'baseui/typography';
 
 const Paginator = ({ pages, currentPage, setCurrentPage }) => (
   <Pagination

@@ -1,4 +1,8 @@
 import { useSelector } from 'react-redux';
+import {
+  Checkbox,
+  LABEL_PLACEMENT,
+} from 'baseui/checkbox';
 import useActions from '../hooks/useActions';
 
 const COURSES = [
@@ -19,8 +23,13 @@ const Filter = () => {
     <form>
       {COURSES.map((course) => (
         <label htmlFor="React" key={course}>
-          {course}
-          <input type="checkbox" id="css" onChange={() => setFilter(course)} checked={filterState[course]} />
+          <Checkbox
+            checked={filterState[course]}
+            onChange={() => setFilter(course)}
+            labelPlacement={LABEL_PLACEMENT.right}
+          >
+            {course}
+          </Checkbox>
         </label>
       ))}
     </form>
