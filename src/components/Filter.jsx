@@ -1,8 +1,10 @@
 import { useSelector } from 'react-redux';
+
 import {
   Checkbox,
   LABEL_PLACEMENT,
 } from 'baseui/checkbox';
+import { Label1 } from 'baseui/typography';
 import useActions from '../hooks/useActions';
 
 const COURSES = [
@@ -28,7 +30,9 @@ const Filter = () => {
             onChange={() => setFilter(course)}
             labelPlacement={LABEL_PLACEMENT.right}
           >
-            {course}
+            <Label1>
+              {course}
+            </Label1>
           </Checkbox>
         </label>
       ))}
