@@ -4,7 +4,6 @@ import {
   Checkbox,
   LABEL_PLACEMENT,
 } from 'baseui/checkbox';
-import { Label1 } from 'baseui/typography';
 import useActions from '../hooks/useActions';
 
 const COURSES = [

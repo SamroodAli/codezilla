@@ -1,9 +1,9 @@
-import Filter from './Filter';
 import VideoList from './VideosList';
+import FilterOptions from './Drawer';
 
 const Courses = () => (
   <div>
-    <Filter />
+    <FilterOptions />
     <VideoList />
   </div>
 );
