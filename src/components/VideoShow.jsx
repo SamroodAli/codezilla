@@ -1,6 +1,7 @@
 import { useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
+import { useEffect } from 'react';
 import useActions from '../hooks/useActions';
 
 const VideoShow = () => {
@@ -8,8 +9,11 @@ const VideoShow = () => {
   const { searchVideo } = useActions();
   const { id } = useParams();
 
-  if (!currentVideo) {
+  useEffect(() => {
     searchVideo(id);
+  }, []);
+
+  if (!currentVideo) {
     return <div>Loading</div>;
   }
 

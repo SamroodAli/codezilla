@@ -1,6 +1,10 @@
+import {
+  Display1,
+} from 'baseui/typography';
+
 const Home = () => (
   <div>
-    <h1>Welcome to COdZilla</h1>
+    <Display1>Welcome to COdZilla</Display1>
   </div>
 );
 

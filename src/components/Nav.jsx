@@ -8,7 +8,7 @@ import {
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import {
-  DisplayMedium,
+  DisplayMedium, LabelLarge,
 } from 'baseui/typography';
 
 const Nav = ({ button }) => (
@@ -24,7 +24,11 @@ const Nav = ({ button }) => (
     <StyledNavigationList $align={ALIGN.right}>
       <StyledNavigationItem>
         <Link to="/courses">
-          Courses
+          <LabelLarge>
+
+            Courses
+          </LabelLarge>
+
         </Link>
       </StyledNavigationItem>
     </StyledNavigationList>

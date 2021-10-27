@@ -1,25 +1,32 @@
 import PropTypes from 'prop-types';
-import { Card, StyledBody, StyledAction } from 'baseui/card';
+import { Card, StyledAction } from 'baseui/card';
 import { Button } from 'baseui/button';
+import { Paragraph1, HeadingSmall } from 'baseui/typography';
+import { Link } from 'react-router-dom';
 
-const VideoItem = ({ video }) => {
+const VideoItem = ({ video, link, onClick }) => {
   const { thumbnails, description, title } = video;
 
   return (
     <Card
-      overrides={{ Root: { style: { width: '328px' } } }}
+      overrides={{ Root: { style: { margin: '1rem' } } }}
       headerImage={thumbnails.medium.url}
-      title={title}
       alt={description}
 
     >
-      <StyledBody>
+      <HeadingSmall overrides={{ Root: { style: { textDecoration: 'none' } } }}>
+        {title}
+      </HeadingSmall>
+
+      <Paragraph1>
         {description}
-      </StyledBody>
+      </Paragraph1>
       <StyledAction>
-        <Button overrides={{ BaseButton: { style: { width: '100%' } } }}>
-          Watch course
-        </Button>
+        <Link to={`/courses/${link}`}>
+          <Button overrides={{ BaseButton: { style: { width: '100%' } } }} onClick={onClick}>
+            Watch course
+          </Button>
+        </Link>
       </StyledAction>
     </Card>
 
@@ -27,6 +34,8 @@ const VideoItem = ({ video }) => {
 };
 
 VideoItem.propTypes = {
+  onClick: PropTypes.func.isRequired,
+  link: PropTypes.string.isRequired,
   video: PropTypes.shape({
     thumbnails: PropTypes.shape({
       medium: PropTypes.shape({
