@@ -1,8 +1,10 @@
 import { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
+import { FlexGrid, FlexGridItem } from 'baseui/flex-grid';
 import useActions from '../hooks/useActions';
 import Paginator from './Pagination';
 import CoursesListPage from './CoursesListPage';
+import FilterOptions from './Drawer';
 
 const VideoList = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -27,11 +29,19 @@ const VideoList = () => {
 
   return (
     <div>
-      <Paginator
-        pages={Math.ceil(courses.length / coursesPerPage)}
-        currentPage={Math.ceil(currentPage)}
-        setCurrentPage={setCurrentPage}
-      />
+      <FlexGrid flexGridColumnCount={2}>
+        <FlexGridItem justifyContent="flex-start" display="flex">
+          <Paginator
+            pages={Math.ceil(courses.length / coursesPerPage)}
+            currentPage={Math.ceil(currentPage)}
+            setCurrentPage={setCurrentPage}
+          />
+        </FlexGridItem>
+        <FlexGridItem justifyContent="flex-end" display="flex">
+          <FilterOptions />
+        </FlexGridItem>
+
+      </FlexGrid>
       <CoursesListPage courses={paginate(courses)} />
     </div>
   );
