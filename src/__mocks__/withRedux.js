@@ -2,10 +2,10 @@ import reduxThunk from 'redux-thunk';
 import { Provider } from 'react-redux';
 import { StaticRouter } from 'react-router-dom';
 import configureStore from 'redux-mock-store';
-// import data from '../../public/data/courses.json';
+import data from '../../public/data/courses.json';
 
 const initialState = {
-  videos: [],
+  videos: [data],
   filters: {
     React: true,
     Angular: true,
@@ -20,7 +20,7 @@ const initialState = {
 };
 
 const mockStore = configureStore([reduxThunk]);
-const store = mockStore(initialState);
+export const store = mockStore(initialState);
 
 const withRedux = (component) => (
   <Provider store={store}><StaticRouter>{component}</StaticRouter></Provider>

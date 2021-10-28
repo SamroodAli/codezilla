@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing VideoItem with redux VideoItem snapshot testing 1`] = `
+<section
+  alt="Angular tutorial for beginners: Learn Angular & TypeScript from scratch. Enjoyed this video? Please vote for me as the Top Programming Guru: ..."
+  className=""
+  data-baseweb="card"
+>
+  <img
+    className=""
+    src="https://i.ytimg.com/vi/k5E2AVpwsko/mqdefault.jpg"
+  />
+  <div
+    className=""
+  >
+    <div
+      className=""
+    >
+      <h5
+        className=""
+        data-baseweb="typo-headingsmall"
+      >
+        Angular Tutorial for Beginners: Learn Angular &amp; TypeScript
+      </h5>
+      <div
+        className=""
+      >
+        <a
+          href="/courses/5C2ltc2IL8zZxIUT98IspyOAt6Y"
+          onClick={[Function]}
+        >
+          <button
+            className=""
+            data-baseweb="button"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Watch course
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`;
