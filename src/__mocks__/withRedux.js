@@ -1,6 +1,6 @@
 import reduxThunk from 'redux-thunk';
 import { Provider } from 'react-redux';
-import { render } from '@testing-library/react';
+import { StaticRouter } from 'react-router-dom';
 
 import configureStore from 'redux-mock-store';
 
@@ -22,5 +22,7 @@ const initialState = {
 const mockStore = configureStore([reduxThunk]);
 const store = mockStore(initialState);
 
-const reduxRender = (component) => render(<Provider store={store}>{component}</Provider>);
-export default reduxRender;
+const withRedux = (component) => (
+  <Provider store={store}><StaticRouter>{component}</StaticRouter></Provider>
+);
+export default withRedux;

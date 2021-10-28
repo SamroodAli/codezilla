@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Testing App with redux App snapshot testing 1`] = `
+exports[`Testing BaseWeb with redux BaseWeb snapshot testing 1`] = `
 Array [
   <div
     className=""
@@ -74,14 +74,9 @@ Array [
       className="cf cg"
       data-baseweb="block"
     >
-      <div>
-        <div
-          className="b4 ae b5 ch ci"
-          data-baseweb="typo-displaylarge"
-        >
-          Welcome to CodeZilla
-        </div>
-      </div>
+      <p>
+        Hello Base web
+      </p>
     </div>
   </div>,
   <div
