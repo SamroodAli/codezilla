@@ -29,7 +29,7 @@ const Courses = () => {
 
   return (
     <>
-      <FlexGrid flexGridColumnCount={2}>
+      <FlexGrid flexGridColumnCount={2} data-testid="courses">
         <FlexGridItem justifyContent="flex-start" display="flex">
           <Paginator
             pages={Math.ceil(courses.length / coursesPerPage)}

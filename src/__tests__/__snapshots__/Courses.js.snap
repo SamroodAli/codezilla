@@ -5,6 +5,7 @@ Array [
   <div
     className=""
     data-baseweb="flex-grid"
+    data-testid="courses"
   >
     <div
       className=""

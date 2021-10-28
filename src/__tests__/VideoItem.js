@@ -14,6 +14,7 @@ describe('Testing VideoItem with redux', () => {
     />));
     expect(component).toBeDefined();
   });
+
   it('VideoItem snapshot testing', async () => {
     const video = store.getState().videos[0].Angular[0];
     const tree = renderer.create(withRedux(<VideoItem
