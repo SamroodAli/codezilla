@@ -5,8 +5,8 @@ import Filter from '../components/Filter';
 
 describe('Testing Filter with redux', () => {
   it('Filter is defined', async () => {
-    const courses = render(withRedux(<Filter />));
-    expect(courses).toBeDefined();
+    const filter = render(withRedux(<Filter />));
+    expect(filter).toBeDefined();
   });
 
   it('Filter snapshot testing', () => {

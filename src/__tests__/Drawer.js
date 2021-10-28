@@ -5,8 +5,8 @@ import Drawer from '../components/Drawer';
 
 describe('Testing Drawer with redux', () => {
   it('Drawer is defined', async () => {
-    const courses = render(withRedux(<Drawer />));
-    expect(courses).toBeDefined();
+    const component = render(withRedux(<Drawer />));
+    expect(component).toBeDefined();
   });
 
   it('Drawer snapshot testing', () => {
