@@ -2,10 +2,12 @@ import { useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
 import { useEffect } from 'react';
+import { Block } from 'baseui/block';
+import { H1, Paragraph1 } from 'baseui/typography';
 import useActions from '../hooks/useActions';
 
 const VideoShow = () => {
-  const currentVideo = useSelector(({ currentVideo }) => currentVideo);
+  const { currentVideo } = useSelector((state) => state);
   const { searchVideo } = useActions();
   const { id } = useParams();
 
@@ -21,11 +23,13 @@ const VideoShow = () => {
   const { description, title } = currentVideo.snippet;
 
   return (
-    <div>
+    <Block display="flex">
       <ReactPlayer url={videoUrl} controls playing />
-      <h4 className="ui header">{title}</h4>
-      <p>{description}</p>
-    </div>
+      <Block>
+        <H1>{title}</H1>
+        <Paragraph1>{description}</Paragraph1>
+      </Block>
+    </Block>
   );
 };
 

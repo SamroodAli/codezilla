@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing App with redux Button snapshot testing 1`] = `
+Array [
+  <div
+    className=""
+  >
+    <nav
+      className="ae af ag ah ai aj ak al am an ao"
+      data-baseweb="header-navigation"
+      role="navigation"
+    >
+      <ul
+        className="ai ap aq ar as at au av aw ax ay az b0 b1 b2"
+      >
+        <li
+          className="b3 au"
+        >
+          <a
+            href="/"
+            onClick={[Function]}
+          >
+            <div
+              className="b4 ae b5 b6 b7"
+              data-baseweb="typo-displaymedium"
+            >
+              CodeZilla
+            </div>
+          </a>
+        </li>
+      </ul>
+      <ul
+        className="ai ap aq b8 b9 ba au av bb bc ay az b0 b1 b2"
+      />
+      <ul
+        className="ai ap aq ar as at au av bd be ay az b0 b1 b2"
+      >
+        <li
+          className="b3 au"
+        >
+          <a
+            href="/courses"
+            onClick={[Function]}
+          >
+            <div
+              className="b4 ae b5 bf ah"
+              data-baseweb="typo-labellarge"
+            >
+              Courses
+            </div>
+          </a>
+        </li>
+      </ul>
+      <ul
+        className="ai ap aq ar as at au av bd be ay az b0 b1 b2"
+      >
+        <li
+          className="b3 au"
+        >
+          <button
+            className="bg bh bi bc bj bk bl bm bn bo bp bq br bs bt bu bv bw bx by bz c0 c1 b1 b0 b2 az ae af b5 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce"
+            data-baseweb="button"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Go dark
+          </button>
+        </li>
+      </ul>
+    </nav>
+    <div
+      className="cf cg"
+      data-baseweb="block"
+    >
+      <div>
+        <div
+          className="b4 ae b5 ch ci"
+          data-baseweb="typo-displaylarge"
+        >
+          Welcome to CodeZilla
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className=""
+  />,
+]
+`;
