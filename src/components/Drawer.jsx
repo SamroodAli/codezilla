@@ -10,7 +10,6 @@ const FilterOptions = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-
       <Button
         onClick={() => setIsOpen(true)}
         overrides={{

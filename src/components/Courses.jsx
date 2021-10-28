@@ -6,7 +6,7 @@ import Paginator from './Pagination';
 import CoursesListPage from './CoursesListPage';
 import FilterOptions from './Drawer';
 
-const VideoList = () => {
+const Courses = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const { videos, filters } = useSelector((state) => state);
   const { searchVideos } = useActions();
@@ -28,7 +28,7 @@ const VideoList = () => {
   ) => courses.slice((currentPage - 1) * coursesPerPage, currentPage * coursesPerPage);
 
   return (
-    <div>
+    <>
       <FlexGrid flexGridColumnCount={2}>
         <FlexGridItem justifyContent="flex-start" display="flex">
           <Paginator
@@ -40,15 +40,14 @@ const VideoList = () => {
         <FlexGridItem
           justifyContent="flex-end"
           display="flex"
-
         >
           <FilterOptions />
         </FlexGridItem>
 
       </FlexGrid>
       <CoursesListPage courses={paginate(courses)} />
-    </div>
+    </>
   );
 };
 
-export default VideoList;
+export default Courses;

@@ -1,8 +1,8 @@
 import reduxThunk from 'redux-thunk';
 import { Provider } from 'react-redux';
 import { StaticRouter } from 'react-router-dom';
-
 import configureStore from 'redux-mock-store';
+// import data from '../../public/data/courses.json';
 
 const initialState = {
   videos: [],
