@@ -7,7 +7,7 @@ const BaseWebContainer = ({ children }) => {
   const theme = useSelector(({ theme }) => theme);
   const { setTheme } = useActions();
 
-    <BaseWeb theme={theme} setTheme={setTheme}>{ children}</BaseWeb>;
+  return <BaseWeb theme={theme} setTheme={setTheme}>{ children}</BaseWeb>;
 };
 BaseWebContainer.propTypes = {
   children: PropTypes.node.isRequired,
