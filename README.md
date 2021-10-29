@@ -1,6 +1,6 @@
-# Magic Books
+# Code Zilla
 
-A books management project for the fictional company codezilla Inc.
+A Course catalogue website which presents a list of coding courses. You can watch them as well. Skill up with theses courses for free.
 ## Built With
 
 - React using create-react-app
