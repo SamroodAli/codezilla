@@ -1,6 +1,6 @@
 # Code Zilla
 
-A Course catalogue website which presents a list of coding courses. You can watch them as well. Skill up with theses courses for free.
+A Course catalogue website which presents a list of coding courses. You can watch them as well. Skill up with these courses for free.
 ## Built With
 
 - React using create-react-app
