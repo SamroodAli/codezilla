@@ -1,14 +1,11 @@
-import { useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
 import { useEffect } from 'react';
 import { Block } from 'baseui/block';
 import { H1, Paragraph1 } from 'baseui/typography';
-import useActions from '../hooks/useActions';
+import PropTypes from 'prop-types';
 
-const VideoShow = () => {
-  const { currentVideo } = useSelector((state) => state);
-  const { searchVideo } = useActions();
+const VideoShow = ({ searchVideo, currentVideo }) => {
   const { id } = useParams();
 
   useEffect(() => {
@@ -31,6 +28,17 @@ const VideoShow = () => {
       </Block>
     </Block>
   );
+};
+
+VideoShow.propTypes = {
+  searchVideo: PropTypes.func.isRequired,
+  currentVideo: PropTypes.shape({
+    id: { videoId: PropTypes.string.isRequired },
+    snippet: PropTypes.shape({
+      description: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
+    }),
+  }).isRequired,
 };
 
 export default VideoShow;
