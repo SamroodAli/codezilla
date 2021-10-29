@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { FlexGrid, FlexGridItem } from 'baseui/flex-grid';
 import PropTypes from 'prop-types';
 import Paginator from './Pagination';
-import CoursesListPage from './CoursesListPage';
+import CoursesListPage from '../containers/CoursesListPage';
 import FilterOptions from './Drawer';
 
 const Courses = ({ videos, filters, searchVideos }) => {
