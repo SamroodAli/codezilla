@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Courses from './Courses';
+import Courses from '../containers/Courses';
 import VideoShow from './VideoShow';
 import BaseWeb from '../containers/BaseWeb';
 import Home from './Home';

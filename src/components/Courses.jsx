@@ -1,15 +1,12 @@
 import { useEffect, useState } from 'react';
-import { useSelector } from 'react-redux';
 import { FlexGrid, FlexGridItem } from 'baseui/flex-grid';
-import useActions from '../hooks/useActions';
+import PropTypes from 'prop-types';
 import Paginator from './Pagination';
 import CoursesListPage from './CoursesListPage';
 import FilterOptions from './Drawer';
 
-const Courses = () => {
+const Courses = ({ videos, filters, searchVideos }) => {
   const [currentPage, setCurrentPage] = useState(1);
-  const { videos, filters } = useSelector((state) => state);
-  const { searchVideos } = useActions();
   const coursesPerPage = 8;
 
   useEffect(() => {
@@ -48,6 +45,12 @@ const Courses = () => {
       <CoursesListPage courses={paginate(courses)} />
     </>
   );
+};
+
+Courses.propTypes = {
+  videos: PropTypes.objectOf(PropTypes.array).isRequired,
+  filters: PropTypes.objectOf(PropTypes.bool).isRequired,
+  searchVideos: PropTypes.func.isRequired,
 };
 
 export default Courses;
