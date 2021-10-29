@@ -74,12 +74,21 @@ Array [
       className="cf cg"
       data-baseweb="block"
     >
-      <div>
+      <div
+        className="ch bc ci"
+        data-baseweb="block"
+      >
         <div
-          className="b4 ae b5 ch ci"
+          className="b4 ae b5 cj ck"
           data-baseweb="typo-displaylarge"
         >
           Welcome to CodeZilla
+        </div>
+        <div
+          className="b4 ae b5 cl cm"
+          data-baseweb="typo-displaysmall"
+        >
+          Codezilla has got everything you need.
         </div>
       </div>
     </div>

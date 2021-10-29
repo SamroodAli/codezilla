@@ -1,12 +1,21 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Testing Home with redux Home snapshot testing 1`] = `
-<div>
+<div
+  className=""
+  data-baseweb="block"
+>
   <div
     className=""
     data-baseweb="typo-displaylarge"
   >
     Welcome to CodeZilla
+  </div>
+  <div
+    className=""
+    data-baseweb="typo-displaysmall"
+  >
+    Codezilla has got everything you need.
   </div>
 </div>
 `;

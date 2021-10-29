@@ -65,7 +65,7 @@ Array [
             onClick={[Function]}
             onFocus={[Function]}
           >
-            Go dark
+            Go light
           </button>
         </li>
       </ul>
