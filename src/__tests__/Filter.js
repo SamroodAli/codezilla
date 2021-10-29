@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import { StaticRouter } from 'react-router-dom';
 import Filter from '../components/Filter';
 
-describe('Testing Filter with redux', () => {
+describe('Testing Filter with static router', () => {
   it('Filter is defined', async () => {
     const component = render(
       <StaticRouter>

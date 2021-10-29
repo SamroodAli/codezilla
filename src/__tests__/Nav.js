@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import { StaticRouter } from 'react-router-dom';
 import Nav from '../components/Nav';
 
-describe('Testing Nav with redux', () => {
+describe('Testing Nav with router', () => {
   it('Nav is defined', async () => {
     const component = render(
       <StaticRouter>

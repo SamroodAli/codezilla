@@ -4,7 +4,7 @@ import { StaticRouter } from 'react-router-dom';
 import VideoItem from '../components/VideoItem';
 import { store } from '../__mocks__/withRedux';
 
-describe('Testing VideoItem with redux', () => {
+describe('Testing VideoItem with router', () => {
   it('VideoItem is defined', () => {
     const video = store.getState().videos[0].Angular[0];
     const component = render(

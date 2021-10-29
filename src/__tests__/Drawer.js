@@ -2,7 +2,7 @@ import renderer from 'react-test-renderer';
 import { render } from '@testing-library/react';
 import Drawer from '../components/Drawer';
 
-describe('Testing Drawer with redux', () => {
+describe('Testing Drawer component', () => {
   it('Drawer is defined', async () => {
     const component = render(<Drawer />);
     expect(component).toBeDefined();
