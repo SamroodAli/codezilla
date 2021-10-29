@@ -1,10 +1,8 @@
-import { useSelector } from 'react-redux';
-
+import PropTypes from 'prop-types';
 import {
   Checkbox,
   LABEL_PLACEMENT,
 } from 'baseui/checkbox';
-import useActions from '../hooks/useActions';
 
 const COURSES = [
   'React',
@@ -16,31 +14,31 @@ const COURSES = [
   'Object Oriented Programming',
 ];
 
-const Filter = () => {
-  const { setFilter } = useActions();
-  const filterState = useSelector(({ filters }) => filters);
-
-  return COURSES.map((course) => (
-    <label htmlFor="React" key={course}>
-      <Checkbox
-        checked={filterState[course]}
-        onChange={() => setFilter(course)}
-        labelPlacement={LABEL_PLACEMENT.right}
-        overrides={{
-          Label: {
-            style:
+const Filter = ({ filterState, setFilter }) => COURSES.map((course) => (
+  <label htmlFor="React" key={course}>
+    <Checkbox
+      checked={filterState[course]}
+      onChange={() => setFilter(course)}
+      labelPlacement={LABEL_PLACEMENT.right}
+      overrides={{
+        Label: {
+          style:
               ((
                 { $theme },
               ) => ({ color: $theme.colors.primaryA, backgroundColor: $theme.colors.primaryB })
               ),
-          },
-        }}
-      >
-        {course}
+        },
+      }}
+    >
+      {course}
 
-      </Checkbox>
-    </label>
-  ));
+    </Checkbox>
+  </label>
+));
+
+Filter.propTypes = {
+  filterState: PropTypes.objectOf(PropTypes.bool).isRequired,
+  setFilter: PropTypes.func.isRequired,
 };
 
 export default Filter;

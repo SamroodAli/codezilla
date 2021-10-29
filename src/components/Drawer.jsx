@@ -4,7 +4,7 @@ import { Button } from 'baseui/button';
 import {
   Display4,
 } from 'baseui/typography';
-import Filters from './Filter';
+import Filters from '../containers/Filter';
 
 const FilterOptions = () => {
   const [isOpen, setIsOpen] = useState(false);
