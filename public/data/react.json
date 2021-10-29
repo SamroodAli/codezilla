@@ -1,0 +1,1671 @@
+{
+  "name": "react",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWwLwwxUliFOONM2ml_-abylAeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N3AkSS5hXMA"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-27T04:05:47Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "What Is React (React js) &amp; Why Is It So Popular?",
+        "description": "What is React (React js)? This video explains it in 5 Minutes! React tutorial for beginners: https://youtu.be/Ke90Tje7VS0 Subscribe to my YouTube channel for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N3AkSS5hXMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N3AkSS5hXMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N3AkSS5hXMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-27T04:05:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPnUrmssCAbKtthkKGWQladDkY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MRIMT0xPXFI"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T18:30:01Z",
+        "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+        "title": "Learn REACT JS in just 5 MINUTES (2020)",
+        "description": "You cannot MASTER React in 5 minutes, but here are all the main components you need to understand to call yourself a React developer. \u200d   Join Freemote ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MRIMT0xPXFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MRIMT0xPXFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MRIMT0xPXFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aaron Jack",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T18:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N8yIEeg38wsRV87ZROcGeSBWR1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RGKi6LSPDLU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-14T14:43:19Z",
+        "channelId": "UCeVMnSShP_Iviwkknt83cww",
+        "title": "React Tutorial in Hindi 🔥🔥",
+        "description": "Join my Recently launched Complete & Free React Course with 3 Projects: https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RGKi6LSPDLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RGKi6LSPDLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RGKi6LSPDLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CodeWithHarry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-14T14:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0DSsAArjlutasMueb3qdGY9wxD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gnkrDse9QKc"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-20T15:00:13Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "Beginner React.js Coding Interview (ft. Clément Mihailescu)",
+        "description": "I give Clément Mihailescu a mock React.js interview that is geared towards beginners. Checkout the video we made on Clem's channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-20T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-8s78LNJ1mZjnjDXVITih4UOPh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w7ejDZ8SWv8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T19:01:11Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "React JS Crash Course 2021",
+        "description": "Get started with React in this crash course. We will be building a task tracker app and look at components, props, state, hooks, working with an API and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w7ejDZ8SWv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T19:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rummVcCBeitY9Eh5mA2hwfcbQdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "02ieJ1YXZM4"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T23:00:11Z",
+        "channelId": "UCsrVDPJBYeXItETFHG0qzyw",
+        "title": "Live Coding a Shopping Cart using React",
+        "description": "This is a live coding react (reactjs) tutorial for beginners where I program a simple shopping cart feature. If you are looking to learn react, check out this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/02ieJ1YXZM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/02ieJ1YXZM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/02ieJ1YXZM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Dev Junkie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NzSzlgMH8vWnJu7KmCzoqZ7C2-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XtMThy8QKqU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-09T22:16:40Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "🔴 How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)",
+        "description": "Free Training on How to Become a Developer in 90 Days: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XtMThy8QKqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XtMThy8QKqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtMThy8QKqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-09T22:16:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "frpB_aAz9mUS-OcZOX2GnGevZsI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4UZrsTqkcW4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T14:16:07Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks",
+        "description": "Learn the basics of React in this comprehensive course. You will learn about fundamentals, hooks, context API, react router, custom hooks, and more. React is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4UZrsTqkcW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4UZrsTqkcW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4UZrsTqkcW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T14:16:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SpC2DTfs66VusadHtXjUZJZuE44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-S5a0eXPoc"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-11T16:00:11Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "React Native Tutorial for Beginners - Build a React Native App [2020]",
+        "description": "React Native Tutorial for Beginners - Learn to build an amazing React Native app for iOS & Android. Get the full React Native course: https://bit.ly/3f40a4l ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-S5a0eXPoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-S5a0eXPoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-S5a0eXPoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-11T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QV3lz1gmLHTX5jvx00GTrUxMmvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6s0OVdoo4Q4"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-10T14:00:04Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "Intermediate React.js Coding Interview (ft. Clément Mihailescu)",
+        "description": "I give Clément an intermediate level React.js coding interview where I test his knowledge in creating a table that can sort columns and search for values.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6s0OVdoo4Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6s0OVdoo4Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6s0OVdoo4Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-10T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cjkx_56FrfSYMHD_0mT2ynsLtxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nTeuhbP7wdE"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-08T14:30:05Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "React JS Course for Beginners - 2021 Tutorial",
+        "description": "This is a full premium course. Learn React.js from the ground up with fundamentals to more intermediate and advanced topics. You will learn by building a real ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nTeuhbP7wdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nTeuhbP7wdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nTeuhbP7wdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-08T14:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jR0-50F3FjD-OgQ-mzgmuZ0tb80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a_7Z7C_JCyo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-27T13:34:16Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Code 15 React Projects - Complete Course",
+        "description": "Improve your skills with the React JavaScript library by building 15 projects using React. Code: https://github.com/john-smilga/react-projects React ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_7Z7C_JCyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_7Z7C_JCyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_7Z7C_JCyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-27T13:34:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "erHHvKrbVrzMGeyPTuyALayDUHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DLX62G4lc44"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-18T16:21:19Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+        "description": "React.js is a JavaScript library for building dynamic web applications. Upon completion of this course, you'll know everything you need in order to build web ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DLX62G4lc44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DLX62G4lc44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLX62G4lc44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-18T16:21:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B8olEtX3-zEoAnhIFwWHP2kMGkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n8NyJxy27uk"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-11T00:02:59Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "🔴 How to Make Money Coding with REACT JS",
+        "description": "Do you want to master React JS & learn how to make an income with your new skills? Click here & enroll NOW ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n8NyJxy27uk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n8NyJxy27uk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n8NyJxy27uk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-11T00:02:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_XOkBWK39gaiVeZErN8eYAu6UA8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hQAHSlTtcmY"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-22T16:00:07Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn React In 30 Minutes",
+        "description": "IMPORTANT: Full React Course: https://courses.webdevsimplified.com/learn-react-today In this video I will be covering all of the basics of React in only 30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQAHSlTtcmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQAHSlTtcmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQAHSlTtcmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-22T16:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kurK4PS-1UN_9UGKrF5P2o6z_NY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I2UBjN5ER4s"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T17:00:02Z",
+        "channelId": "UCsKsymTY_4BYR-wytLjex7A",
+        "title": "React Website Tutorial - Beginner React JS Project Fully Responsive",
+        "description": "Learn how to build a React website from scratch in this tutorial. We will use React Hooks and React Router for this beginner React JS Project. The website is fully ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2UBjN5ER4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2UBjN5ER4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2UBjN5ER4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brian Design",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ty5y8S3XpAYa0OjmT9lfLCENi9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8uahMXnnRtg"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-11T01:00:01Z",
+        "channelId": "UC-P1RKzdbZpTNT1V-Wtiktg",
+        "title": "Mid Level Developer React Coding Challenge",
+        "description": "In this video, I walkthrough a coding challenge I had during an interview. This is the palindrome coding challenge! I demonstrate how I accomplished this with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8uahMXnnRtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8uahMXnnRtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8uahMXnnRtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Kevin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-11T01:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gOGXT54pY26UQhwkC5ovL1tKLxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tX-gu6FWcsE"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-21T17:27:23Z",
+        "channelId": "UCHt5Fz7cYrQIIw4EyXkkqPQ",
+        "title": "TDD Live Coding - Test Driven Development Tutorial with React, Jest, and Enzyme",
+        "description": "In this live stream coding event titled TDD Live Coding - Test Driven Development Tutorial with React, Jest, and Enzyme, Enterprise Full Stack Software ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tX-gu6FWcsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tX-gu6FWcsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tX-gu6FWcsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming Made EZ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-21T17:27:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uX_0pivy60-j3BPSF_5xIk3HMH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E9wGnfHSeKg"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-01T18:50:03Z",
+        "channelId": "UCsLo154Krjwhoz8W00N8ItA",
+        "title": "I Learned React JS in 7 Days",
+        "description": "Instagram: https://www.instagram.com/keep_on_coding Discord: https://discord.gg/keeponcoding Become a Member: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E9wGnfHSeKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E9wGnfHSeKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E9wGnfHSeKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Keep On Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-01T18:50:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_k3xTxIf3agOSnfb2Gktrg_ee1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dJc_0bc5ETE"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-02T14:00:12Z",
+        "channelId": "UC2xRE4hUCQ3xO3ymEtMh1Hw",
+        "title": "React Complete Course for Beginners 2021 - Learn ReactJS from Scratch - Free React Tutorial",
+        "description": "React Complete Course for Beginners 2021 - Learn ReactJS from Scratch - Free React Tutorial SOURCE CODE & DEMO + React Basic Concepts: Source ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJc_0bc5ETE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJc_0bc5ETE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJc_0bc5ETE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Basir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-02T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GY8-ahhol3ldjvbhGAXgHgbY1AE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dorf8i6lCuk"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-05T15:00:03Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!",
+        "description": "Get Started with React.js and learn how to build amazing websites with ReactJS! Full Project included, 100% free! Join our bestselling ReactJS course: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dorf8i6lCuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dorf8i6lCuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dorf8i6lCuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-05T15:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a2vIBswU6i-pas3XkvOF65pDcL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dZXpgP9ibf8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-19T12:30:02Z",
+        "channelId": "UCIPZVAwDGa-A4ZJxCBvXRuQ",
+        "title": "8 Clean Code Practices in React JS 🚀 | Optional Chaining | Destructuring | Arrow Func Roadside Coder",
+        "description": "Let's Learn 8 awesome clean coding practices to make your React App Development Fast and Efficient. If any questions, ask me here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZXpgP9ibf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZXpgP9ibf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZXpgP9ibf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RoadsideCoder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-19T12:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sjWeQFp6rIKSFycPhyWKYO9srhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ocKqJCYkJCs"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-25T12:50:00Z",
+        "channelId": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+        "title": "React Best Practices",
+        "description": "In this video I will talk to you guys about my opinion on Best Practices in ReactJS. This is something that is actually personal to each developer, but there are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocKqJCYkJCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocKqJCYkJCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocKqJCYkJCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PedroTech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-25T12:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yd06AjoxtdKo8ZPg0hHgj-Goxm4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xa-_FIy2NgE"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-02T18:19:33Z",
+        "channelId": "UCa1zuotKU4Weuw_fLRnPv0A",
+        "title": "6 Pro Tips from React Developers",
+        "description": "New to React? Learn from the success—and failures—of React developers who've learned valuable lessons about the library. Here are 6 Tips from Pro React ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xa-_FIy2NgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xa-_FIy2NgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xa-_FIy2NgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vue Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-02T18:19:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RazwHA0lXIPjuMSO-IvYtlXueQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Siy-pU8Wzcs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-01T19:51:25Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Introduction to Modern React (2 Hour Course)",
+        "description": "Watch this amazing 2 hour course on modern ReactJS to learn how to deploy your React apps, build class components and use component libraries, manage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Siy-pU8Wzcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Siy-pU8Wzcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Siy-pU8Wzcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-01T19:51:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jVYkpM5M7fOkEdygq1e_-pt7XbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8LNb18ibNGs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-29T16:39:29Z",
+        "channelId": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+        "title": "Coding a Quiz App in ReactJS - React Resume Projects",
+        "description": "In this video I will be showing you guys how to build a quiz app in React using Hooks and the Context API. This quiz app can serve as a nice beginner to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8LNb18ibNGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8LNb18ibNGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8LNb18ibNGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PedroTech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-29T16:39:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E7pLVBhiK4ePVRA_51umxaLxf88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yXVGsHtw_Js"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-14T17:31:04Z",
+        "channelId": "UCLNgu_OupwoeESgtab33CCw",
+        "title": "Part 1 - Setting up React + Typescript + Hooks - React Router, Material UI, Easy Peasy",
+        "description": "In this episode I will setup a React + Typescript application with my preferred stack. Code is here: https://github.com/CodingGarden/react-typescript-guestbook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXVGsHtw_Js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXVGsHtw_Js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXVGsHtw_Js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Garden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-14T17:31:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7JJJsaNpzD-XeZ7Cpr27BSxCxls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "it54tShOsuI"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-21T13:43:40Z",
+        "channelId": "UC2xRE4hUCQ3xO3ymEtMh1Hw",
+        "title": "React.js Tic Tac Toe Game in 30 Minutes",
+        "description": "Get my MERN course at 90% Discount: https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/?couponCode=OCT2021 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/it54tShOsuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/it54tShOsuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/it54tShOsuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Basir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-21T13:43:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nt08InS2l-_jKufzs5W8-h0dPa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ScJFyY_DtrA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-22T19:00:05Z",
+        "channelId": "UCsKsymTY_4BYR-wytLjex7A",
+        "title": "Scrimba Course Review The React Bootcamp - Best Coding Course Online?",
+        "description": "Here is my review of Scrimba's coding course called \"The React Bootcamp.\" Is this the best coding course platform online? Be sure to watch the entire video to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ScJFyY_DtrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ScJFyY_DtrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ScJFyY_DtrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brian Design",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-22T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yF3k-FOEZLK_xzfIcDE-4I7f3UQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JEiEFhaMVVA"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-23T18:54:05Z",
+        "channelId": "UC7mca3O0DmdSG2Cr80sOD7g",
+        "title": "Live-coding a Twitch-like video streaming video platform in React",
+        "description": "In this video I'll live code a Twitch-like video streaming platform from scratch — including the video service, client-side routing, authentication, a comment API, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JEiEFhaMVVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JEiEFhaMVVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JEiEFhaMVVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nader Dabit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-23T18:54:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nIBmyq8N_8GMAmaozjFGoKM8jq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MfhZJcTOy1A"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-06T07:32:33Z",
+        "channelId": "UCo9xTRmg1SqQ5JSsA2fAgJw",
+        "title": "Learn React Js for beginners in 2021 in Hindi 🔥🔥",
+        "description": "Backend APIs online: https://ecom-rest-apis.herokuapp.com OR ( If the above APIs are not working then try below one) Backend APIs online: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MfhZJcTOy1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MfhZJcTOy1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfhZJcTOy1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coder's Gyan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-06T07:32:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GF6PtTEzfxc1uGlWje1ufrveKxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iEKdtB53IXs"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-16T23:35:45Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Build a Brain Computer App with React Native - Live Coding with Jesse",
+        "description": "Today we will start building a mobile app with React Native that will link up with a brain computer interface! See a professional software engineer at work.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEKdtB53IXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEKdtB53IXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEKdtB53IXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-16T23:35:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Z2GVkOvVTqmTzT7KLguiGThu8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nKyrXWH5XLM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-13T14:00:21Z",
+        "channelId": "UC2xRE4hUCQ3xO3ymEtMh1Hw",
+        "title": "React &amp; Redux Tutorial - Full Shopping Cart in 4 Hours [2020]",
+        "description": "Build Shopping Cart By React & Redux For All Levels Developers Heroku Demo : https://reactredux-shoppingcart.herokuapp.com/ AWS Demo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nKyrXWH5XLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nKyrXWH5XLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKyrXWH5XLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Basir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-13T14:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zDDYo7glQZqyChT5EI8JJVdec7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_tbPQ3aaHUA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-01T15:25:01Z",
+        "channelId": "UCZJlMUYdbtzQ8tVfLvK1KvQ",
+        "title": "Why You Must Learn React?",
+        "description": "In this interesting video, our expert trainer, Aakash Tyagi explains 5 Reasons why you must learn react? React is one of the most popular technology and is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tbPQ3aaHUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tbPQ3aaHUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tbPQ3aaHUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Ninjas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-01T15:25:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "inMe3cI0sUv_VNhX5nnPKP4Srfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QwUZxCBtfLw"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T22:24:42Z",
+        "channelId": "UC9xFO-llZ2ontatfj9LtLxw",
+        "title": "I Coded a Multiplayer Chess Game in React and Node.js",
+        "description": "Link to the source code: https://jackhetech.io?p=multiplayer-chess-game Have some fun and play Chess! https://chesswithfriend.com/ Big big shoutout to my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwUZxCBtfLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwUZxCBtfLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwUZxCBtfLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jack He",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T22:24:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1l62X3QQL94fEgrdj1lYHsVL3Mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tn6-PIqc4UM"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T19:06:55Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "React in 100 Seconds",
+        "description": "React is a little JavaScript library with a big influence over the webdev world. Learn the basics of React in 100 Seconds https://fireship.io/tags/react/ How I make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tn6-PIqc4UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tn6-PIqc4UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tn6-PIqc4UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T19:06:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8k4VI0IFxcmHmXecHvbH9CUHwVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nBz4k-F9g5E"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-02T20:16:13Z",
+        "channelId": "UCYSa_YLoJokZAwHhlwJntIA",
+        "title": "LIVE coding: Instagram Clone in React Native from scratch [Part 2]",
+        "description": "Join me live and let's build an Instagram clone in React Native from scratch. Download the Asset Bundle (Images, Dummy data, PDF presentation): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nBz4k-F9g5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nBz4k-F9g5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nBz4k-F9g5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "notJust․dev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-02T20:16:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXa_mQhxMohvIY63QP5CYxbGX2o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xaUj-NCDu7c"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-17T14:11:06Z",
+        "channelId": "UCkCJ0zLrSg7VudR97g-FNVQ",
+        "title": "How I learned React JS in 7 Days",
+        "description": "I wanted to see how long it would take me to \"learn\" React JS. So I spent 7 days getting familiar with the library and exploring the features I was the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xaUj-NCDu7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xaUj-NCDu7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xaUj-NCDu7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kenny Gunderman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-17T14:11:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fCsxHUxA2nK8YbvYU8oqu5vxn7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ZEjSxDRIik"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-08T23:20:17Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "Build a 3D World in React with ThreeJS and React Three Fiber",
+        "description": "This video starts with me talking about the diference between React and ReactDOM. React Three Fiber uses React to keep track of 3D objects that gets rendered ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ZEjSxDRIik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ZEjSxDRIik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZEjSxDRIik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-08T23:20:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-r7O7W4vz_JGhnE43xGrHliW7gM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NcjxDtnqcJI"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T16:22:42Z",
+        "channelId": "UCLNgu_OupwoeESgtab33CCw",
+        "title": "🍵🗣⚛️| Morning Tea | React.js Q&amp;A | Ask me anything about React.js!",
+        "description": "Today I'll be answering any questions you have about React.js with Code Examples! Code is here: https://github.com/CodingGarden/react-qna-playground ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NcjxDtnqcJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NcjxDtnqcJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NcjxDtnqcJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Garden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T16:22:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDtpNonY9h6DoZkR1-uNZAGLPJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pnkuI8KXW_8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-03T22:57:30Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "🔴 Build a Spotify Clone with REACT JS for Beginners",
+        "description": "FREE JavaScript Training ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pnkuI8KXW_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pnkuI8KXW_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pnkuI8KXW_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-03T22:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yYnwEqMCu86bGKyhCs-n_DkW7WU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tKzSnjWPtEw"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-14T19:49:02Z",
+        "channelId": "UCoYzQqZNCRqqAomJwJ6yEdg",
+        "title": "React + Material UI #2: Actually coding a UX design",
+        "description": "For this video, I downloaded Figma and Material's plugin for Figma and made a very basic UX design. The point of the video is to showcase how you would go ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tKzSnjWPtEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tKzSnjWPtEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tKzSnjWPtEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthony Sistilli",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-14T19:49:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "noE2x2FvZH25o2HHDV9rMSnKv6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TRCDsB9i3bI"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T15:00:11Z",
+        "channelId": "UC2xRE4hUCQ3xO3ymEtMh1Hw",
+        "title": "React &amp; Node Tutorial - Full ECommerce in 9 Hours [2021]",
+        "description": "Build ECommerce Website Like Amazon For All Levels Developers Website Demo : https://react-amazona.herokuapp.com Website Demo Copy: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TRCDsB9i3bI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TRCDsB9i3bI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRCDsB9i3bI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Basir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FHX0LUV5TkPLZ-Heg-iLjhZkn9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-cMqr9HpZ-Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T18:00:11Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "React JS Tutorial for Beginners - Full Course in 12 Hours [2021]",
+        "description": "Free Training on How to Become a Developer in 90 Days: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cMqr9HpZ-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cMqr9HpZ-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cMqr9HpZ-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1F7m8p6xYzA07WgTzyZ7hDkW-2g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tfPq0iCJioQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-14T11:00:16Z",
+        "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "title": "React Interview Questions | A Preparation Guide",
+        "description": "Signup through the HarperDB Studio: https://studio.harperdb.io/sign-up?utm_source=codevolution1 Course ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tfPq0iCJioQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tfPq0iCJioQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfPq0iCJioQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Codevolution",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-14T11:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9x7ojJpVvGRNG0hdlIJ_bkQURGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AmIdY1Eb8tY"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-23T15:00:11Z",
+        "channelId": "UC2xRE4hUCQ3xO3ymEtMh1Hw",
+        "title": "React Shopping Cart For Absolute Beginners [2021]",
+        "description": "Build A Simple Shopping Cart Using Only React For All Levels Web Developers Demo : https://small-react-cart.herokuapp.com Github ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AmIdY1Eb8tY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AmIdY1Eb8tY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AmIdY1Eb8tY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding with Basir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-23T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-0TIlzhiT81DUBOz2X4f4CNWyM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zQyrwxMPm88"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-23T17:48:40Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "I built a chat app in 7 minutes with React &amp; Firebase",
+        "description": "Build a secure feature-complete chat app with React & Firebase in 7 minutes. Try it out https://fireship-demos.web.app/ Source Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQyrwxMPm88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQyrwxMPm88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQyrwxMPm88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-23T17:48:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MghQTbxNnLtSrSX5SsX1IyC99xA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I6IY2TqnPDA"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-25T14:00:00Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "Coding a Todo List in React.js - Part 15",
+        "description": "Learn how to code a todo list in react Code: https://github.com/benawad/practical-react/tree/15_todo_list Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6IY2TqnPDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6IY2TqnPDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6IY2TqnPDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-25T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C2AQ3ONPQItaX1IUNSWeIW1zPEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NjN00cM18Z4"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-31T19:25:02Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "TypeScript Tutorial - TypeScript for React - Learn TypeScript [2020]",
+        "description": "TypeScript Tutorial - TypeScript for React & Angular Developers. Learn TypeScript for React and Angular apps. Get the COMPLETE COURSE (60% OFF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NjN00cM18Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NjN00cM18Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NjN00cM18Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-31T19:25:02Z"
+      }
+    }
+  ]
+}

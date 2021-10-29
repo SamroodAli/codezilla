@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Drawer with redux Drawer snapshot testing 1`] = `
+<button
+  className=""
+  data-baseweb="button"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+>
+  Filter Courses
+</button>
+`;

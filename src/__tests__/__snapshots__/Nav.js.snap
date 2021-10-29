@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Nav with redux Nav snapshot testing 1`] = `
+<nav
+  className=""
+  data-baseweb="header-navigation"
+  role="navigation"
+>
+  <ul
+    className=""
+  >
+    <li
+      className=""
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <div
+          className=""
+          data-baseweb="typo-displaymedium"
+        >
+          CodeZilla
+        </div>
+      </a>
+    </li>
+  </ul>
+  <ul
+    className=""
+  />
+  <ul
+    className=""
+  >
+    <li
+      className=""
+    >
+      <a
+        href="/courses"
+        onClick={[Function]}
+      >
+        <div
+          className=""
+          data-baseweb="typo-labellarge"
+        >
+          Courses
+        </div>
+      </a>
+    </li>
+  </ul>
+  <ul
+    className=""
+  >
+    <li
+      className=""
+    />
+  </ul>
+</nav>
+`;

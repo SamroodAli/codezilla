@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Courses with redux Courses snapshot testing 1`] = `
+Array [
+  <div
+    className=""
+    data-baseweb="flex-grid"
+    data-testid="courses"
+  >
+    <div
+      className=""
+      data-baseweb="flex-grid-item"
+    >
+      <div
+        className=""
+        data-baseweb="block"
+      >
+        <div
+          className=""
+          data-baseweb="pagination"
+        >
+          <button
+            aria-label="previous page. current page 1 of 0"
+            className=""
+            data-baseweb="button"
+            disabled={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className=""
+            >
+              <svg
+                className=""
+                data-baseweb="icon"
+                title=""
+                viewBox="0 0 24 24"
+              >
+                <path
+                  clipRule="evenodd"
+                  d="M9 12C9 12.2652 9.10536 12.5196 9.29289 12.7071L13.2929 16.7071C13.6834 17.0976 14.3166 17.0976 14.7071 16.7071C15.0976 16.3166 15.0976 15.6834 14.7071 15.2929L11.4142 12L14.7071 8.70711C15.0976 8.31658 15.0976 7.68342 14.7071 7.29289C14.3166 6.90237 13.6834 6.90237 13.2929 7.29289L9.29289 11.2929C9.10536 11.4804 9 11.7348 9 12Z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            Prev
+          </button>
+          <div
+            className=""
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              aria-controls={null}
+              aria-expanded="false"
+              aria-haspopup="true"
+              className=""
+              data-baseweb="select"
+              onBlur={[Function]}
+              onClick={[Function]}
+            >
+              <div
+                className=""
+                onClick={[Function]}
+                onKeyDown={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  className=""
+                >
+                  <div
+                    aria-selected="true"
+                    className=""
+                    disabled={false}
+                    value={1}
+                  >
+                    1
+                  </div>
+                  <div
+                    aria-activedescendant={null}
+                    aria-describedby={null}
+                    aria-disabled={false}
+                    aria-errormessage={null}
+                    aria-expanded={false}
+                    aria-label="Selected 1. page 1 of 0"
+                    aria-labelledby={null}
+                    aria-owns={null}
+                    aria-required={null}
+                    className=""
+                    onFocus={[Function]}
+                    role="listbox"
+                    tabIndex={0}
+                  >
+                    <input
+                      aria-hidden={true}
+                      id={null}
+                      style={
+                        Object {
+                          "border": "none",
+                          "opacity": 0,
+                          "overflow": "hidden",
+                          "padding": 0,
+                          "width": 0,
+                        }
+                      }
+                      tabIndex={-1}
+                    />
+                  </div>
+                </div>
+                <div
+                  className=""
+                >
+                  <svg
+                    className=""
+                    data-baseweb="icon"
+                    title="open"
+                    viewBox="0 0 24 24"
+                  >
+                    <title>
+                      open
+                    </title>
+                    <path
+                      d="M12.7071 15.2929L17.1464 10.8536C17.4614 10.5386 17.2383 10 16.7929 10L7.20711 10C6.76165 10 6.53857 10.5386 6.85355 10.8536L11.2929 15.2929C11.6834 15.6834 12.3166 15.6834 12.7071 15.2929Z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            aria-hidden={true}
+            className=""
+          >
+            of 0
+          </span>
+          <button
+            aria-label="next page. current page 1 of 0"
+            className=""
+            data-baseweb="button"
+            disabled={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Next
+            <div
+              className=""
+            >
+              <svg
+                className=""
+                data-baseweb="icon"
+                title=""
+                viewBox="0 0 24 24"
+              >
+                <path
+                  clipRule="evenodd"
+                  d="M9.29289 7.29289C8.90237 7.68342 8.90237 8.31658 9.29289 8.70711L12.5858 12L9.29289 15.2929C8.90237 15.6834 8.90237 16.3166 9.29289 16.7071C9.68342 17.0976 10.3166 17.0976 10.7071 16.7071L14.7071 12.7071C14.8946 12.5196 15 12.2652 15 12C15 11.7348 14.8946 11.4804 14.7071 11.2929L10.7071 7.29289C10.3166 6.90237 9.68342 6.90237 9.29289 7.29289Z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className=""
+      data-baseweb="flex-grid-item"
+    >
+      <button
+        className=""
+        data-baseweb="button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+      >
+        Filter Courses
+      </button>
+    </div>
+  </div>,
+  <div
+    className=""
+    data-baseweb="flex-grid"
+  />,
+]
+`;

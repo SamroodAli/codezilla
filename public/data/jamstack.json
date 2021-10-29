@@ -1,0 +1,1705 @@
+{
+  "name": "jamstack",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MwftJb4NnONzRylorU39DTjvSk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ySJGjo3_EX4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T13:56:27Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "What Is The Jamstack?",
+        "description": "In this video, we will look at what the JAMstack entails James Q Quick YouTube: https://www.youtube.com/jamesqquick Auth0 YouTube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySJGjo3_EX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySJGjo3_EX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySJGjo3_EX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T13:56:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zWZhdy8PZF3Rq4AwMg-1t6veycE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hqG8hg2l03k"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-16T17:24:50Z",
+        "channelId": "UC5DNytAJ6_FISueUfzZCVsw",
+        "title": "What is JAMstack!",
+        "description": "Hey internet and welcome to another one of my explainer videos, in which we are going to demystify JAMStack. What it is, why to use it and it's evolution over ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hqG8hg2l03k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hqG8hg2l03k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hqG8hg2l03k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Code with Ania Kubów",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-16T17:24:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6q2OS6GISI3FphzSaUKXXo2CSJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A_l0qrPUJds"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-10T17:15:43Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "JAMstack Course - Build websites that are simpler, faster, and more secure",
+        "description": "Learn how to use the JAMstack from an expert in this full course for beginners. The JAMstack allows people to create websites that are simpler, faster, and more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_l0qrPUJds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_l0qrPUJds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_l0qrPUJds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-10T17:15:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VDcBXf2fhORtl74UPNM5renz1FY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8PXMbr0Kqo"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T16:00:11Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "What is the JAMStack?",
+        "description": "The JAMStack is pretty suit for creating highly reactive, SEO-tuned web apps. Here's how the JAMStack works! ---------- Example Project Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8PXMbr0Kqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8PXMbr0Kqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8PXMbr0Kqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqAfXkoF-bXWEHOshMRx8HpPCuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O0sywQnY8sM"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-19T15:00:07Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "What is JAMStack?",
+        "description": "Learn what JAMStack is, what the benefits are, and when you should use it over something like server-side rendering. Links from video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O0sywQnY8sM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O0sywQnY8sM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O0sywQnY8sM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-19T15:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TJJjYAbyZxylzNF6afJQjVNwIMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gSpPtHSELfY"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-23T17:04:04Z",
+        "channelId": "UCsKwL0-e2eHRNa6Ne99AESw",
+        "title": "JAMStack Explained In Under 3 Minutes",
+        "description": "JAMStack revolutionizes the way businesses deliver web content. Combining JavaScript, API, and Markup, JAMStack delivers fast and secure web sites and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gSpPtHSELfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gSpPtHSELfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gSpPtHSELfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Modus Create, Inc.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-23T17:04:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f7o6HO1d3idb3wbO0owJ_mvjdSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "73b1ZbmB96I"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-07T13:29:38Z",
+        "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+        "title": "JAMstack Crash Course - Build a Full Stack Application",
+        "description": "Learn about the JAMstack, the new hotness in Web Development!! In this JAMstack crash course, you'll learn how to build a Full Stack application using some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/73b1ZbmB96I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/73b1ZbmB96I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/73b1ZbmB96I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "James Q Quick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-07T13:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b1V-FKoy9S9MI9_hulBFW2TOL44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VjHxyQszVuY"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-21T09:41:34Z",
+        "channelId": "UCsEjfP5fKwDOF0ZiAjPrdvQ",
+        "title": "Why Web Developers are loving JamStack? | Static Site Generators in 2020 | Hindi",
+        "description": "Why Web Developers are loving JamStack? | Static Site Generators 2020 | Hindi Web Developers and Front End Developers are loving JamStack and their are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VjHxyQszVuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VjHxyQszVuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VjHxyQszVuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mukesh Joshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-21T09:41:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TTuBdsAQfMJx9Dfq7Eyu3Zwv8r8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YljH-aqKUFk"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-20T13:32:07Z",
+        "channelId": "UCYMuZm39Z5Qc7JZfiYoxemQ",
+        "title": "Do we really need this JAMstack thing? And what even is it? | Phil Hawksworth",
+        "description": "Speaker: Phil Hawksworth (Netlify) | https://javascript-conference.com/speaker/phil-hawksworth/ In this session, we'll demystify this buzzwordy term, and explore ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YljH-aqKUFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YljH-aqKUFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YljH-aqKUFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "International JavaScript Conference",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-20T13:32:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "avSs9bbt9jZfWTcR3MEt1uAXVwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CZsARU7HcBI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-05T06:42:19Z",
+        "channelId": "UCvyxMeGJom19EbLwMuKj3fA",
+        "title": "Jamstack - how static sites and APIs are reinventing the web",
+        "description": "Start a free trial of DevTrends Pro: https://devtrends.io/pro --- Jamstack is an architecture for web applications that promises to be faster, cheaper, and more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZsARU7HcBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZsARU7HcBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZsARU7HcBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DevTrends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-05T06:42:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kw6SjwuqrN05VOxPoEKb6StoJCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PXe4ki0Lsew"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T08:29:25Z",
+        "channelId": "UCMQXvu8jhHNnJ2DxPLhaMuQ",
+        "title": "RedwoodJS - a full-stack JavaScript Framework with advantages of JAMstack architecture",
+        "description": "RedwoodJS is a Full-stack JavaScript framework deployed in a serverless way. RedwoodJs uses the advantage of JAMstack architecture. Blog tutorial: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXe4ki0Lsew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXe4ki0Lsew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXe4ki0Lsew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jana Bergant",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T08:29:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FpQWSt0ITML_ysa96_veER2_GM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PzXpCNBcofw"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-01T09:18:03Z",
+        "channelId": "UCoyqucxoFXDFnh3khD0rjUg",
+        "title": "Jam Stack: The New Kid on the Block - JS Monthly - March 2019",
+        "description": "Presented by Tamas Piros JAMstack stands for JavaScript, APIs, and Markup. But what does this really mean for a developer? We'll take a look at JAM Stack ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzXpCNBcofw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzXpCNBcofw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzXpCNBcofw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pusher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-01T09:18:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uf2CW1oE805w2Y-ef4X7o_vdrbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WVayQ66AGa4"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-26T15:53:28Z",
+        "channelId": "UCVLlWT1NZZEJs4A67XgObnQ",
+        "title": "JAMStack - The Total Victory of JavaScript by Shwan Wang | JSCAMP 2019",
+        "description": "More information: https://jscamp.tech.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVayQ66AGa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVayQ66AGa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVayQ66AGa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JScamp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-26T15:53:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lhz-jn0B6UVQ2QAGN0qF0vAYg4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "axdv4QMVYNM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-23T12:23:22Z",
+        "channelId": "UCMzabFudT_ntxlueP9R-3Vg",
+        "title": "Building Applications The Jamstack Way",
+        "description": "Matt Biilmann, Co-founder & CEO of Netlify dives into the Jamstack architecture and explains Netlify, an end-to-end platform for managing modern web ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/axdv4QMVYNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/axdv4QMVYNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/axdv4QMVYNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Netlify",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-23T12:23:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mn98EoXi9HUykJGxFZzebA-yTB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "860d8usGC0o"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-07T00:37:37Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes",
+        "description": "The backlash to modern front end development is gaining steam, with good reason: single-page apps have ruined the web. Can we rescue it without going ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/860d8usGC0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/860d8usGC0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/860d8usGC0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-07T00:37:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "90UKlZ_Z52zzD7kvsDjRwnfyp3w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9nV4pIrKmyE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-17T19:57:55Z",
+        "channelId": "UC7Wpv0Aft4NPNhHWW_JC4GQ",
+        "title": "Next.js Jamstack Tutorial - Create &amp; Deploy a Static Next.js App",
+        "description": "Learn how to create a Next.js app and deploy it to Vercel. We'll walk through creating a new Next.js app using a Next.js Starter, connecting it to Git provider ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9nV4pIrKmyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9nV4pIrKmyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9nV4pIrKmyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Colby Fayock",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-17T19:57:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AmyO5ofMV2fhArGCtFs27NUPbKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U28rjWrGVxk"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-07T00:47:06Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "The next generation of Jamstack performance is… less JS! | Yang Zhang",
+        "description": "Page load performance directly impacts bottom line, and with Google's ranking algorithm rolling out Core Web Vitals in 2021, performance is now more critical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U28rjWrGVxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U28rjWrGVxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U28rjWrGVxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-07T00:47:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K6cm3Dy3_rpH2CLugA8vPyDyv58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "38AKWCnM5po"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-26T22:35:06Z",
+        "channelId": "UCOw-DRfCmhOBUPMe4ltZOSA",
+        "title": "Getting Started with Gatsby JS and the JAMstack",
+        "description": "In this video we are going to get started building our first static website with Gatsby JS. ➥ Buy Me a Coffee: https://buymeacoff.ee/pragmatic ➥ Learn Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/38AKWCnM5po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/38AKWCnM5po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/38AKWCnM5po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pragmatic Reviews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-26T22:35:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0KFiAM_oIah41JBFORQtxJA1imM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BZbGtHtEVzI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T13:55:53Z",
+        "channelId": "UCQ_Y7x4GqPhN82rBMe1_PdA",
+        "title": "Your new jam, The JAMStack! (JavaScript, API&#39;s, Markup) [May 2020]",
+        "description": "JAMStack - JAM stands for JavaScript, APIs, Markup, is a modern web architecture based on client-side and it doesn't depend on a web server. Feras will walk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZbGtHtEVzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZbGtHtEVzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZbGtHtEVzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Akron Software Craftsmanship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T13:55:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mKKVawzCfVTqJmNYx8lsjVIqkuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MuqQL6NMIeg"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-24T09:56:47Z",
+        "channelId": "UCmXVXfidLZQkppLPaATcHag",
+        "title": "🔴 Let&#39;s create a Jamstack Blog w/ Next.js",
+        "description": "Courses Tailwind Beginner Course: https://BeginnerTailwind.com Free Emmet Course: https://FasterWithEmmet.com React Course: https://MakeReactApps.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MuqQL6NMIeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MuqQL6NMIeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MuqQL6NMIeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Dev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-24T09:56:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nQ8QuYu-8qp7oQXRIe_LEqvR7d0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1ZfMpG6ML-w"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-28T13:39:43Z",
+        "channelId": "UCJq6AEgtWeZt7ziQ-fLKOeA",
+        "title": "What is the JAMStack - from Netlify&#39;s CEO Matt Biilmann",
+        "description": "Matt Bilmann, CEO of Netlify, speaks with Sadek about what JAMstack is and some of the key technologies and approaches that are becoming popular within ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ZfMpG6ML-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ZfMpG6ML-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ZfMpG6ML-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prismic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-28T13:39:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P12Bt2furZIYu7AtYG7RSTg6-hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oyEFCBfgsFE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-24T13:55:43Z",
+        "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+        "title": "Blitz.js, - The Fullstack React Framework For the JAMstack",
+        "description": "The hottest new framework in the JAMstack! Blitz.js is the Fullstack React Framework you need to consider when looking at the JAMstack. It has a Ruby on Rails ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oyEFCBfgsFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oyEFCBfgsFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oyEFCBfgsFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "James Q Quick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-24T13:55:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jSlcuymsgv4jW3lUQyvpebpL--U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sh1i-gMH4bo"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-19T00:31:09Z",
+        "channelId": "UCGPGirOab9EGy7VH4IwmWVQ",
+        "title": "What is the JAMstack? and let&#39;s BUILD one",
+        "description": "What is the JAMstack? In this video, I'll not only explain what the JAMstack is (JAMstack explained), but we'll actually build a sample application with Hugo and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sh1i-gMH4bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sh1i-gMH4bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sh1i-gMH4bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Travis Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-19T00:31:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kdUcotets1OsG_yQlPOxD4GXhN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rm9-tFFQH8E"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T15:00:14Z",
+        "channelId": "UCUlQ5VoIzE_kFbYjzUwHTKA",
+        "title": "Setup Authentication in Next.js with Auth0 - Fullstack Jamstack with Next.js (7)",
+        "description": "You need to add authentication to your Next.js applications, but how do you get started? Auth0 will take care of the complicated parts, so you can focus on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rm9-tFFQH8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rm9-tFFQH8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rm9-tFFQH8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Auth0",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T15:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pEkWGiwuBBqe2Jf5uzm_13WQHJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QXsWaA3HTHA"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-05T16:58:56Z",
+        "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "title": "JAM Stack - HTTP 203",
+        "description": "Jake and Surma talk about the JAMStack, what it means and how it's useful for web developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QXsWaA3HTHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QXsWaA3HTHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QXsWaA3HTHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Chrome Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-05T16:58:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "090c0Vytpz19tEzPAca3VVWuNf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4wD00RT6d-g"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-24T13:04:52Z",
+        "channelId": "UCJZv4d5rbIKd4QHMPkcABCw",
+        "title": "Turn static HTML/CSS into a blog with CMS using the JAMStack",
+        "description": "My DevProjects project: https://codemntr.io/dev-projects (includes a link to starting template and my final solution) Codementor: https://codemntr.io/mentor In ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wD00RT6d-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wD00RT6d-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wD00RT6d-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin Powell",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-24T13:04:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K28cGGpl8FwrT1e2SiYeUMxMdn0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NSts93C9UeE"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-22T16:47:42Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "JAMstack Tutorial - Full site using Netlify &amp; Hugo",
+        "description": "In this tutorial you will learn to build a client side application using modern tooling. You will build a restaurant site using Netlify and Hugo. Only basic knowledge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSts93C9UeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSts93C9UeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSts93C9UeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-22T16:47:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MtuhJ8MUAMTSFVF5tBcRVjH5vjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TNKzKtNTjls"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T15:00:05Z",
+        "channelId": "UCUlQ5VoIzE_kFbYjzUwHTKA",
+        "title": "Course Intro and Project Setup with Create Next App - Fullstack Jamstack with Next.js (1)",
+        "description": "Let's create a new Next.js project using Create Next App to get started with this course. Build a Fullstack JAMstack application with Next.js, Airtable, Auth0, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TNKzKtNTjls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TNKzKtNTjls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TNKzKtNTjls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Auth0",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PbHeVvLyvxuZw7W5DEHZ8llnW4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dqqMFpR7sMk"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-06T22:38:42Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "The Rise of JAMStack",
+        "description": "20 years ago, Michael Kunze coined the LAMP stack to describe the success of open source architecture on the web, but it also betrayed the server-centric world ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dqqMFpR7sMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dqqMFpR7sMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dqqMFpR7sMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-06T22:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Ll9ygHSSD8JElXCZTuMKo1x9Vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7szIf3r_wsM"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-30T01:23:37Z",
+        "channelId": "UC4qP5Igv5vKmPE9FDEKXgEg",
+        "title": "What is the JAMStack",
+        "description": "The JAMStack is a modern web development architecture that offers great performance, it is secure by nature, and less expensive to host and easier to scale ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7szIf3r_wsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7szIf3r_wsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7szIf3r_wsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Software Developer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-30T01:23:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5wJG383nCOh0kFqoGjp2ZEOAFsI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "inAWGWfpkHs"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-22T14:00:19Z",
+        "channelId": "UCDYDhCEPlrYfRyj2ApxeVMA",
+        "title": "CUSTOM STATIC SITE GENERATOR (Live Coding) [Part 1] | JavaScript | NodeJS | Images | JamStack",
+        "description": "Watch as I live code a custom static site generator using JavaScript/Node.js Part 2: https://www.youtube.com/watch?v=UCWxte7IqME 03:30 Setup ESLint + ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/inAWGWfpkHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/inAWGWfpkHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/inAWGWfpkHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Joel Codes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-22T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KX9osy7DPIeUkmbQ-HsMfLjiIk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VvbgpgdEBUA"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-08T11:01:14Z",
+        "channelId": "UCoBGn5gxfgRRwrjlrR9aTxQ",
+        "title": "Tamas Piros - Jamstack – A Vue of your Nuxt project | JS VidCon",
+        "description": "https://jsvidcon.com/events/tamas-piros/ Jamstack – A Vue of your Nuxt project Nuxt.js is a Vue.js based static site generator. But what does this mean in practice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VvbgpgdEBUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VvbgpgdEBUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VvbgpgdEBUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EventHandler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-08T11:01:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5AlGk6VifagNFALC8osP6usaSO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zBazG4DgqOc"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-13T13:44:44Z",
+        "channelId": "UCrsEcxPCJlz5yZ_FKGo6D9g",
+        "title": "Jamstack with Next.js and Prisma - Daniel Norman",
+        "description": "Talk given by Daniel Norman at the JAMstack Berlin Meetup on November 30th, 2020. https://www.meetup.com/jamstack_berlin/events/273949316/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBazG4DgqOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBazG4DgqOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBazG4DgqOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Contentful",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-13T13:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "emIXDdqn9NeChBN6zvA5C3YILzg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "phC14xfwvjc"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-06T19:33:22Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "Jamstack Conf Keynote 2021: How it Started; How it&#39;s Going | Matt Biilmann",
+        "description": "Matt Biilmann kicks off Jamstack Conf 2021 with an assessment of the Jamstack ecosystem, and an eye on how it started, and where it's going. He talks about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phC14xfwvjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phC14xfwvjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phC14xfwvjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-06T19:33:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HkYwK_0TQ3Do6YRt-njikN5UNrg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mOBeWGqpuvY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-30T10:55:59Z",
+        "channelId": "UCoyqucxoFXDFnh3khD0rjUg",
+        "title": "Vienna.js, Beauty of JamStack Setup, November 2019",
+        "description": "Talk By Samuel Snopko In this introduction talk I will present you the simplicity and beauty of the projects based on JamStack idea. I will show you how fast and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOBeWGqpuvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOBeWGqpuvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOBeWGqpuvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pusher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-30T10:55:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g65mc_-NQSgFUJKZZR7B_ct0rhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LwrL5yyEcSE"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-23T19:37:12Z",
+        "channelId": "UCslZDQWtMIHH4UxwzVbG4FQ",
+        "title": "3 Hours of Jamstack Conference",
+        "description": "5:35 - Principles of Jamstack - and how it can help you win - Phil Hawksworth 42:30 - Phil Hawksworth Q&A 48:14 - Stateful Jamstack - Building Jamstack apps ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LwrL5yyEcSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LwrL5yyEcSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwrL5yyEcSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nimbella",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-23T19:37:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "woh-ZtUUgYUgSLYMYNSJXasAGVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-NMf5zkdbQw"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T15:35:44Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "JamSnack - What&#39;s New in Vue.js",
+        "description": "Evan You, creator of Vue.js talks about the latest Vue 3.0 release. Vue 3.0 is a complete rewrite including many new features and tools, improved developer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-NMf5zkdbQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-NMf5zkdbQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NMf5zkdbQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T15:35:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dtPUC7JkdX7-UUlTsMrcU1zHJ2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EQbol6toyeA"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-07T00:40:08Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "Headless WordPress at the Edge with Next.js &amp; the Jamstack | Colby Fayock",
+        "description": "Presented by Colby Fayock, Developer Advocate at Applitools at Jamstack Conf 2021. When thinking about modern, performant web apps, WordPress isn't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQbol6toyeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQbol6toyeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQbol6toyeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-07T00:40:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bx0EFGHZk7yOCXH853CaZ9XXuSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M-Bp-U7lHnU"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-19T12:41:15Z",
+        "channelId": "UCKJPVjhsLfzh1cJrUFF9jQg",
+        "title": "BackendlessConf: Building #JAMstack sites with React.js, Vue.js, and Node.js in a single project",
+        "description": "Ahmad Awais talk at BackendlessConf: Building #JAMstack sites with React.js, Vue.js, and Node.js in a single project. - \u200d   CODE: https://ahmda.ws/2NJ7k4K ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-Bp-U7lHnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-Bp-U7lHnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-Bp-U7lHnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ahmad Awais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-19T12:41:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t6EqiPd3PlHiZmUCtiR0K-Q6BJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T8x5gObvJkc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-19T02:38:37Z",
+        "channelId": "UCT1-XRVnJA-wws2bfbLbFcQ",
+        "title": "Building a JAMstack site with NextJS + Netlify CMS by Chad Drummond (Live Meetup Talk)",
+        "description": "I missed starting the recording by a few minutes, but I still got the technical part of the talk. Talk: Building a JAMstack site with NextJS + Netlify CMS A quick dive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8x5gObvJkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8x5gObvJkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8x5gObvJkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brooks Builds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-19T02:38:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9xO73hqRxTJxl2VxfLVJwjivbJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mUF7-lkTI4Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-22T04:05:20Z",
+        "channelId": "UCkFKfPy8Cqpuv4Iif6UNuow",
+        "title": "Deploy Friday: E19 Netlify, JAMStack, and Next.js - a true Gatsby alternative?",
+        "description": "Topic: Netlify, JAMStack, and Next.js - a true Gatsby alternative? -Netlify has made JAMStack a buzzword. Cassidoo and Jlengstorf tell us what is great about it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mUF7-lkTI4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mUF7-lkTI4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mUF7-lkTI4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Platform.sh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-22T04:05:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SqdqZ3iHJZa59w3oQgQZq7E2pSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SeQ2HGt4Y8w"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-25T20:25:51Z",
+        "channelId": "UCTkGE215CjAkcRO5mDMmLkw",
+        "title": "Webinar: Modern Jamstack Apps with Vercel (Next.js) and FaunaDB",
+        "description": "Learn directly from the creators: ---- JJ Kasper Next.js Core Team at Vercel JJ is a maintainer of Next.js at Vercel. He is passionate about building great ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SeQ2HGt4Y8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SeQ2HGt4Y8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SeQ2HGt4Y8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fauna Inc.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-25T20:25:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6ggstZdStCChoT6JVMzrUJcs_80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LhhxQGdm3uo"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-02T21:42:09Z",
+        "channelId": "UCLd93kBu_Ib5vEj8HF3Kydg",
+        "title": "Understanding the Jamstack: How to build an ecommerce site with Gatsby &amp; Stripe Checkout",
+        "description": "In this tutorial, we will be creating a simple e-commerce web site with Gatbsy and Stripe checkout. Stripe checkout is client-side checkout that allows us to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LhhxQGdm3uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LhhxQGdm3uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LhhxQGdm3uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "How To Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-02T21:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uZix-cObLMXpNJ5C_DkTSJzcRKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dwvLvoxe3vA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-13T11:00:17Z",
+        "channelId": "UCYSa_YLoJokZAwHhlwJntIA",
+        "title": "How to Build a Blog with GatsbyJS and Wordpress (JAMstack Tutorial)",
+        "description": "Let's build a fast and secure blogging website from scratch using GatsbyJS and WordPress CMS Use code VADIM and Get up to 91% discount on yearly plans ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dwvLvoxe3vA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dwvLvoxe3vA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dwvLvoxe3vA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "notJust․dev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-13T11:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mJXhr-BL1fLVgA2TUSO4A1CmmMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQx0Drqph18"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T15:00:12Z",
+        "channelId": "UCUlQ5VoIzE_kFbYjzUwHTKA",
+        "title": "Protected API Routes in Next.js with Auth0 - Fullstack Jamstack with Next.js (9)",
+        "description": "Learn how to protect your API routes to ensure only logged0in users can access them. We'll use Auth0 to handle the authentication process and keep track of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQx0Drqph18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQx0Drqph18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQx0Drqph18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Auth0",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lGYwNIS0Wza82zPcfG6TLPZ7-n8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z1uVLa2lmZY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T21:54:01Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "State of the Jamstack Oct 2020 Keynote, Matt Biilmann of Netlify",
+        "description": "Matt Biilmann, CEO and Co-founder of Netlify kicks off Jamstack Conf Virtual with a State of the Jamstack address. Learn about how far the technology has ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z1uVLa2lmZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z1uVLa2lmZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z1uVLa2lmZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T21:54:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KQTT3QnhMIxeZ6c3PPyZLNgGyZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g0OfnWCcBk4"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-16T21:57:41Z",
+        "channelId": "UC8bRyfU7ycLXnEBfvdorpUg",
+        "title": "JAMstack with WordPress",
+        "description": "WordPress is a CMS powering over a third of the web. With the power of it's REST API, it is possible to implement a decoupled and headless architecture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g0OfnWCcBk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g0OfnWCcBk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g0OfnWCcBk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamstack TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-16T21:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dxj1A0TmUfiIKcLYrEDtJDKShF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J-M11cC_NL4"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-10T15:29:18Z",
+        "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+        "title": "JAMStack Overview",
+        "description": "A high level walkthrough of JAMStack so you can decide if this new way of developing and deploying web applications is the right choice for your project.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J-M11cC_NL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J-M11cC_NL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J-M11cC_NL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jack Herrington",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-10T15:29:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-bZispHS3OStLYxwCK3crnnpgPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0BuTaaRXmVs"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T15:00:00Z",
+        "channelId": "UCUlQ5VoIzE_kFbYjzUwHTKA",
+        "title": "Create a Form with Tailwind CSS and Next.js - Fullstack Jamstack with Next.js (8)",
+        "description": "Tailwind CSS is a great option for designing your applications. It's comprehensive list of utility classes means you rarely have to write CSS yourself. In this video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BuTaaRXmVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BuTaaRXmVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BuTaaRXmVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Auth0",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "meg2FBdhZ0g_gk59BlwIQrMTQSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XK-_UrmgxqU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-20T18:39:36Z",
+        "channelId": "UCZbtcRQHGpU_tt2yM4C7k0A",
+        "title": "Guillermo Rauch: JAMstack will be BIGGER than Node.js",
+        "description": "Guillermo Rauch from ZEIT and Next.js on why he believe JAMstack will do more for JavaScript than Node.js has. podcast: https://changelog.com/jsparty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XK-_UrmgxqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XK-_UrmgxqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XK-_UrmgxqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Changelog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-20T18:39:36Z"
+      }
+    }
+  ]
+}

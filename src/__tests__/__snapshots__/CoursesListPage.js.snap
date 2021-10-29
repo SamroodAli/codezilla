@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing CoursesListPage with redux CoursesListPage snapshot testing 1`] = `
+<div
+  className=""
+  data-baseweb="flex-grid"
+/>
+`;
