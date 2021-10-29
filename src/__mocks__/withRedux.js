@@ -22,7 +22,7 @@ const initialState = {
 const mockStore = configureStore([reduxThunk]);
 export const store = mockStore(initialState);
 
-const withRedux = (component) => (
+const WithRedux = (component) => (
   <Provider store={store}><StaticRouter>{component}</StaticRouter></Provider>
 );
-export default withRedux;
+export default WithRedux;
